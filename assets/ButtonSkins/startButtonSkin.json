@@ -1,0 +1,17 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable": {
+    "btn_up": {
+      "name": "BONUSPastelUI - sprite_085.png"
+    },
+    "btn_down": {
+      "name": "BONUSPastelUI - sprite_106.png"
+    }
+  },
+
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+    "my-button": {
+      "imageUp": "btn_up",
+      "imageDown": "btn_down"
+    }
+  }
+}

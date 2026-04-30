@@ -1,0 +1,5337 @@
+CatUIBonus.png
+size: 1018, 740
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+sprite/BONUSPastelUI - sprite
+  bounds: 520, 339, 90, 29
+  index: 1
+sprite/BONUSPastelUI - sprite
+  bounds: 768, 169, 16, 16
+  index: 2
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 169, 16, 16
+  index: 3
+sprite/BONUSPastelUI - sprite
+  bounds: 800, 169, 12, 16
+  index: 4
+sprite/BONUSPastelUI - sprite
+  bounds: 812, 169, 12, 16
+  index: 5
+sprite/BONUSPastelUI - sprite
+  bounds: 824, 169, 16, 16
+  index: 6
+sprite/BONUSPastelUI - sprite
+  bounds: 840, 169, 16, 16
+  index: 7
+sprite/BONUSPastelUI - sprite
+  bounds: 856, 169, 12, 16
+  index: 8
+sprite/BONUSPastelUI - sprite
+  bounds: 868, 169, 12, 16
+  index: 9
+sprite/BONUSPastelUI - sprite
+  bounds: 880, 169, 16, 16
+  index: 10
+sprite/BONUSPastelUI - sprite
+  bounds: 896, 169, 16, 16
+  index: 11
+sprite/BONUSPastelUI - sprite
+  bounds: 912, 169, 12, 16
+  index: 12
+sprite/BONUSPastelUI - sprite
+  bounds: 924, 169, 12, 16
+  index: 13
+sprite/BONUSPastelUI - sprite
+  bounds: 936, 169, 16, 16
+  index: 14
+sprite/BONUSPastelUI - sprite
+  bounds: 952, 169, 16, 16
+  index: 15
+sprite/BONUSPastelUI - sprite
+  bounds: 968, 169, 12, 16
+  index: 16
+sprite/BONUSPastelUI - sprite
+  bounds: 980, 169, 12, 16
+  index: 17
+sprite/BONUSPastelUI - sprite
+  bounds: 992, 169, 16, 16
+  index: 18
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 185, 16, 16
+  index: 19
+sprite/BONUSPastelUI - sprite
+  bounds: 16, 185, 12, 16
+  index: 20
+sprite/BONUSPastelUI - sprite
+  bounds: 28, 185, 12, 16
+  index: 21
+sprite/BONUSPastelUI - sprite
+  bounds: 807, 109, 16, 15
+  index: 22
+sprite/BONUSPastelUI - sprite
+  bounds: 823, 109, 16, 15
+  index: 23
+sprite/BONUSPastelUI - sprite
+  bounds: 839, 109, 12, 15
+  index: 24
+sprite/BONUSPastelUI - sprite
+  bounds: 851, 109, 12, 15
+  index: 25
+sprite/BONUSPastelUI - sprite
+  bounds: 863, 109, 16, 15
+  index: 26
+sprite/BONUSPastelUI - sprite
+  bounds: 879, 109, 16, 15
+  index: 27
+sprite/BONUSPastelUI - sprite
+  bounds: 895, 109, 12, 15
+  index: 28
+sprite/BONUSPastelUI - sprite
+  bounds: 907, 109, 12, 15
+  index: 29
+sprite/BONUSPastelUI - sprite
+  bounds: 919, 109, 16, 15
+  index: 30
+sprite/BONUSPastelUI - sprite
+  bounds: 935, 109, 16, 15
+  index: 31
+sprite/BONUSPastelUI - sprite
+  bounds: 951, 109, 12, 15
+  index: 32
+sprite/BONUSPastelUI - sprite
+  bounds: 963, 109, 12, 15
+  index: 33
+sprite/BONUSPastelUI - sprite
+  bounds: 975, 109, 16, 15
+  index: 34
+sprite/BONUSPastelUI - sprite
+  bounds: 991, 109, 16, 15
+  index: 35
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 124, 12, 15
+  index: 36
+sprite/BONUSPastelUI - sprite
+  bounds: 12, 124, 12, 15
+  index: 37
+sprite/BONUSPastelUI - sprite
+  bounds: 24, 124, 16, 15
+  index: 38
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 124, 16, 15
+  index: 39
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 124, 12, 15
+  index: 40
+sprite/BONUSPastelUI - sprite
+  bounds: 68, 124, 12, 15
+  index: 41
+sprite/BONUSPastelUI - sprite
+  bounds: 250, 312, 90, 27
+  index: 42
+sprite/BONUSPastelUI - sprite
+  bounds: 340, 312, 80, 27
+  index: 43
+sprite/BONUSPastelUI - sprite
+  bounds: 420, 312, 80, 27
+  index: 44
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 185, 16, 16
+  index: 45
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 185, 16, 16
+  index: 46
+sprite/BONUSPastelUI - sprite
+  bounds: 72, 185, 12, 16
+  index: 47
+sprite/BONUSPastelUI - sprite
+  bounds: 84, 185, 12, 16
+  index: 48
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 185, 16, 16
+  index: 49
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 185, 16, 16
+  index: 50
+sprite/BONUSPastelUI - sprite
+  bounds: 128, 185, 12, 16
+  index: 51
+sprite/BONUSPastelUI - sprite
+  bounds: 140, 185, 12, 16
+  index: 52
+sprite/BONUSPastelUI - sprite
+  bounds: 152, 185, 16, 16
+  index: 53
+sprite/BONUSPastelUI - sprite
+  bounds: 168, 185, 16, 16
+  index: 54
+sprite/BONUSPastelUI - sprite
+  bounds: 184, 185, 12, 16
+  index: 55
+sprite/BONUSPastelUI - sprite
+  bounds: 196, 185, 12, 16
+  index: 56
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 185, 16, 16
+  index: 57
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 185, 16, 16
+  index: 58
+sprite/BONUSPastelUI - sprite
+  bounds: 240, 185, 12, 16
+  index: 59
+sprite/BONUSPastelUI - sprite
+  bounds: 252, 185, 12, 16
+  index: 60
+sprite/BONUSPastelUI - sprite
+  bounds: 264, 185, 16, 16
+  index: 61
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 185, 16, 16
+  index: 62
+sprite/BONUSPastelUI - sprite
+  bounds: 296, 185, 12, 16
+  index: 63
+sprite/BONUSPastelUI - sprite
+  bounds: 308, 185, 12, 16
+  index: 64
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 124, 16, 15
+  index: 65
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 124, 16, 15
+  index: 66
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 124, 12, 15
+  index: 67
+sprite/BONUSPastelUI - sprite
+  bounds: 124, 124, 12, 15
+  index: 68
+sprite/BONUSPastelUI - sprite
+  bounds: 136, 124, 16, 15
+  index: 69
+sprite/BONUSPastelUI - sprite
+  bounds: 152, 124, 16, 15
+  index: 70
+sprite/BONUSPastelUI - sprite
+  bounds: 168, 124, 12, 15
+  index: 71
+sprite/BONUSPastelUI - sprite
+  bounds: 180, 124, 12, 15
+  index: 72
+sprite/BONUSPastelUI - sprite
+  bounds: 192, 124, 16, 15
+  index: 73
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 124, 16, 15
+  index: 74
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 124, 12, 15
+  index: 75
+sprite/BONUSPastelUI - sprite
+  bounds: 236, 124, 12, 15
+  index: 76
+sprite/BONUSPastelUI - sprite
+  bounds: 248, 124, 16, 15
+  index: 77
+sprite/BONUSPastelUI - sprite
+  bounds: 264, 124, 16, 15
+  index: 78
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 124, 12, 15
+  index: 79
+sprite/BONUSPastelUI - sprite
+  bounds: 292, 124, 12, 15
+  index: 80
+sprite/BONUSPastelUI - sprite
+  bounds: 304, 124, 16, 15
+  index: 81
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 124, 16, 15
+  index: 82
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 124, 12, 15
+  index: 83
+sprite/BONUSPastelUI - sprite
+  bounds: 348, 124, 12, 15
+  index: 84
+sprite/BONUSPastelUI - sprite
+  bounds: 610, 339, 90, 29
+  index: 85
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 185, 16, 16
+  index: 86
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 185, 16, 16
+  index: 87
+sprite/BONUSPastelUI - sprite
+  bounds: 352, 185, 12, 16
+  index: 88
+sprite/BONUSPastelUI - sprite
+  bounds: 364, 185, 12, 16
+  index: 89
+sprite/BONUSPastelUI - sprite
+  bounds: 376, 185, 16, 16
+  index: 90
+sprite/BONUSPastelUI - sprite
+  bounds: 392, 185, 16, 16
+  index: 91
+sprite/BONUSPastelUI - sprite
+  bounds: 408, 185, 12, 16
+  index: 92
+sprite/BONUSPastelUI - sprite
+  bounds: 420, 185, 12, 16
+  index: 93
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 185, 16, 16
+  index: 94
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 185, 16, 16
+  index: 95
+sprite/BONUSPastelUI - sprite
+  bounds: 464, 185, 12, 16
+  index: 96
+sprite/BONUSPastelUI - sprite
+  bounds: 476, 185, 12, 16
+  index: 97
+sprite/BONUSPastelUI - sprite
+  bounds: 488, 185, 16, 16
+  index: 98
+sprite/BONUSPastelUI - sprite
+  bounds: 504, 185, 16, 16
+  index: 99
+sprite/BONUSPastelUI - sprite
+  bounds: 520, 185, 12, 16
+  index: 100
+sprite/BONUSPastelUI - sprite
+  bounds: 532, 185, 12, 16
+  index: 101
+sprite/BONUSPastelUI - sprite
+  bounds: 544, 185, 16, 16
+  index: 102
+sprite/BONUSPastelUI - sprite
+  bounds: 560, 185, 16, 16
+  index: 103
+sprite/BONUSPastelUI - sprite
+  bounds: 576, 185, 12, 16
+  index: 104
+sprite/BONUSPastelUI - sprite
+  bounds: 588, 185, 12, 16
+  index: 105
+sprite/BONUSPastelUI - sprite
+  bounds: 500, 312, 90, 27
+  index: 106
+sprite/BONUSPastelUI - sprite
+  bounds: 360, 124, 16, 15
+  index: 107
+sprite/BONUSPastelUI - sprite
+  bounds: 376, 124, 16, 15
+  index: 108
+sprite/BONUSPastelUI - sprite
+  bounds: 392, 124, 12, 15
+  index: 109
+sprite/BONUSPastelUI - sprite
+  bounds: 404, 124, 12, 15
+  index: 110
+sprite/BONUSPastelUI - sprite
+  bounds: 416, 124, 16, 15
+  index: 111
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 124, 16, 15
+  index: 112
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 124, 12, 15
+  index: 113
+sprite/BONUSPastelUI - sprite
+  bounds: 460, 124, 12, 15
+  index: 114
+sprite/BONUSPastelUI - sprite
+  bounds: 472, 124, 16, 15
+  index: 115
+sprite/BONUSPastelUI - sprite
+  bounds: 488, 124, 16, 15
+  index: 116
+sprite/BONUSPastelUI - sprite
+  bounds: 504, 124, 12, 15
+  index: 117
+sprite/BONUSPastelUI - sprite
+  bounds: 516, 124, 12, 15
+  index: 118
+sprite/BONUSPastelUI - sprite
+  bounds: 528, 124, 16, 15
+  index: 119
+sprite/BONUSPastelUI - sprite
+  bounds: 544, 124, 16, 15
+  index: 120
+sprite/BONUSPastelUI - sprite
+  bounds: 560, 124, 12, 15
+  index: 121
+sprite/BONUSPastelUI - sprite
+  bounds: 572, 124, 12, 15
+  index: 122
+sprite/BONUSPastelUI - sprite
+  bounds: 584, 124, 16, 15
+  index: 123
+sprite/BONUSPastelUI - sprite
+  bounds: 600, 124, 16, 15
+  index: 124
+sprite/BONUSPastelUI - sprite
+  bounds: 616, 124, 12, 15
+  index: 125
+sprite/BONUSPastelUI - sprite
+  bounds: 628, 124, 12, 15
+  index: 126
+sprite/BONUSPastelUI - sprite
+  bounds: 590, 312, 80, 27
+  index: 127
+sprite/BONUSPastelUI - sprite
+  bounds: 670, 312, 80, 27
+  index: 128
+sprite/BONUSPastelUI - sprite
+  bounds: 456, 72, 12, 12
+  index: 129
+sprite/BONUSPastelUI - sprite
+  bounds: 468, 72, 12, 12
+  index: 130
+sprite/BONUSPastelUI - sprite
+  bounds: 480, 72, 16, 12
+  index: 131
+sprite/BONUSPastelUI - sprite
+  bounds: 496, 72, 16, 12
+  index: 132
+sprite/BONUSPastelUI - sprite
+  bounds: 512, 72, 12, 12
+  index: 133
+sprite/BONUSPastelUI - sprite
+  bounds: 524, 72, 12, 12
+  index: 134
+sprite/BONUSPastelUI - sprite
+  bounds: 536, 72, 16, 12
+  index: 135
+sprite/BONUSPastelUI - sprite
+  bounds: 552, 72, 16, 12
+  index: 136
+sprite/BONUSPastelUI - sprite
+  bounds: 568, 72, 12, 12
+  index: 137
+sprite/BONUSPastelUI - sprite
+  bounds: 580, 72, 12, 12
+  index: 138
+sprite/BONUSPastelUI - sprite
+  bounds: 592, 72, 16, 12
+  index: 139
+sprite/BONUSPastelUI - sprite
+  bounds: 608, 72, 16, 12
+  index: 140
+sprite/BONUSPastelUI - sprite
+  bounds: 624, 72, 12, 12
+  index: 141
+sprite/BONUSPastelUI - sprite
+  bounds: 636, 72, 12, 12
+  index: 142
+sprite/BONUSPastelUI - sprite
+  bounds: 648, 72, 16, 12
+  index: 143
+sprite/BONUSPastelUI - sprite
+  bounds: 664, 72, 16, 12
+  index: 144
+sprite/BONUSPastelUI - sprite
+  bounds: 680, 72, 12, 12
+  index: 145
+sprite/BONUSPastelUI - sprite
+  bounds: 692, 72, 12, 12
+  index: 146
+sprite/BONUSPastelUI - sprite
+  bounds: 704, 72, 16, 12
+  index: 147
+sprite/BONUSPastelUI - sprite
+  bounds: 720, 72, 16, 12
+  index: 148
+sprite/BONUSPastelUI - sprite
+  bounds: 808, 28, 12, 11
+  index: 149
+sprite/BONUSPastelUI - sprite
+  bounds: 820, 28, 12, 11
+  index: 150
+sprite/BONUSPastelUI - sprite
+  bounds: 832, 28, 16, 11
+  index: 151
+sprite/BONUSPastelUI - sprite
+  bounds: 848, 28, 16, 11
+  index: 152
+sprite/BONUSPastelUI - sprite
+  bounds: 864, 28, 12, 11
+  index: 153
+sprite/BONUSPastelUI - sprite
+  bounds: 876, 28, 12, 11
+  index: 154
+sprite/BONUSPastelUI - sprite
+  bounds: 888, 28, 16, 11
+  index: 155
+sprite/BONUSPastelUI - sprite
+  bounds: 904, 28, 16, 11
+  index: 156
+sprite/BONUSPastelUI - sprite
+  bounds: 920, 28, 12, 11
+  index: 157
+sprite/BONUSPastelUI - sprite
+  bounds: 932, 28, 12, 11
+  index: 158
+sprite/BONUSPastelUI - sprite
+  bounds: 944, 28, 16, 11
+  index: 159
+sprite/BONUSPastelUI - sprite
+  bounds: 960, 28, 15, 11
+  index: 160
+sprite/BONUSPastelUI - sprite
+  bounds: 975, 28, 12, 11
+  index: 161
+sprite/BONUSPastelUI - sprite
+  bounds: 987, 28, 12, 11
+  index: 162
+sprite/BONUSPastelUI - sprite
+  bounds: 999, 28, 16, 11
+  index: 163
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 39, 16, 11
+  index: 164
+sprite/BONUSPastelUI - sprite
+  bounds: 16, 39, 12, 11
+  index: 165
+sprite/BONUSPastelUI - sprite
+  bounds: 28, 39, 12, 11
+  index: 166
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 39, 16, 11
+  index: 167
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 39, 16, 11
+  index: 168
+sprite/BONUSPastelUI - sprite
+  bounds: 700, 339, 90, 29
+  index: 169
+sprite/BONUSPastelUI - sprite
+  bounds: 750, 312, 90, 27
+  index: 170
+sprite/BONUSPastelUI - sprite
+  bounds: 840, 312, 80, 27
+  index: 171
+sprite/BONUSPastelUI - sprite
+  bounds: 736, 72, 12, 12
+  index: 172
+sprite/BONUSPastelUI - sprite
+  bounds: 748, 72, 12, 12
+  index: 173
+sprite/BONUSPastelUI - sprite
+  bounds: 760, 72, 16, 12
+  index: 174
+sprite/BONUSPastelUI - sprite
+  bounds: 776, 72, 16, 12
+  index: 175
+sprite/BONUSPastelUI - sprite
+  bounds: 792, 72, 12, 12
+  index: 176
+sprite/BONUSPastelUI - sprite
+  bounds: 804, 72, 12, 12
+  index: 177
+sprite/BONUSPastelUI - sprite
+  bounds: 816, 72, 16, 12
+  index: 178
+sprite/BONUSPastelUI - sprite
+  bounds: 832, 72, 16, 12
+  index: 179
+sprite/BONUSPastelUI - sprite
+  bounds: 848, 72, 12, 12
+  index: 180
+sprite/BONUSPastelUI - sprite
+  bounds: 860, 72, 12, 12
+  index: 181
+sprite/BONUSPastelUI - sprite
+  bounds: 872, 72, 16, 12
+  index: 182
+sprite/BONUSPastelUI - sprite
+  bounds: 888, 72, 16, 12
+  index: 183
+sprite/BONUSPastelUI - sprite
+  bounds: 904, 72, 12, 12
+  index: 184
+sprite/BONUSPastelUI - sprite
+  bounds: 916, 72, 12, 12
+  index: 185
+sprite/BONUSPastelUI - sprite
+  bounds: 928, 72, 16, 12
+  index: 186
+sprite/BONUSPastelUI - sprite
+  bounds: 944, 72, 16, 12
+  index: 187
+sprite/BONUSPastelUI - sprite
+  bounds: 960, 72, 12, 12
+  index: 188
+sprite/BONUSPastelUI - sprite
+  bounds: 972, 72, 12, 12
+  index: 189
+sprite/BONUSPastelUI - sprite
+  bounds: 984, 72, 16, 12
+  index: 190
+sprite/BONUSPastelUI - sprite
+  bounds: 1000, 72, 16, 12
+  index: 191
+sprite/BONUSPastelUI - sprite
+  bounds: 920, 312, 80, 27
+  index: 192
+sprite/BONUSPastelUI - sprite
+  bounds: 72, 39, 12, 11
+  index: 193
+sprite/BONUSPastelUI - sprite
+  bounds: 84, 39, 12, 11
+  index: 194
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 39, 16, 11
+  index: 195
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 39, 16, 11
+  index: 196
+sprite/BONUSPastelUI - sprite
+  bounds: 128, 39, 12, 11
+  index: 197
+sprite/BONUSPastelUI - sprite
+  bounds: 140, 39, 12, 11
+  index: 198
+sprite/BONUSPastelUI - sprite
+  bounds: 152, 39, 16, 11
+  index: 199
+sprite/BONUSPastelUI - sprite
+  bounds: 168, 39, 16, 11
+  index: 200
+sprite/BONUSPastelUI - sprite
+  bounds: 184, 39, 12, 11
+  index: 201
+sprite/BONUSPastelUI - sprite
+  bounds: 196, 39, 12, 11
+  index: 202
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 39, 16, 11
+  index: 203
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 39, 15, 11
+  index: 204
+sprite/BONUSPastelUI - sprite
+  bounds: 239, 39, 12, 11
+  index: 205
+sprite/BONUSPastelUI - sprite
+  bounds: 251, 39, 12, 11
+  index: 206
+sprite/BONUSPastelUI - sprite
+  bounds: 263, 39, 16, 11
+  index: 207
+sprite/BONUSPastelUI - sprite
+  bounds: 279, 39, 16, 11
+  index: 208
+sprite/BONUSPastelUI - sprite
+  bounds: 295, 39, 12, 11
+  index: 209
+sprite/BONUSPastelUI - sprite
+  bounds: 307, 39, 12, 11
+  index: 210
+sprite/BONUSPastelUI - sprite
+  bounds: 319, 39, 16, 11
+  index: 211
+sprite/BONUSPastelUI - sprite
+  bounds: 335, 39, 16, 11
+  index: 212
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 84, 12, 12
+  index: 213
+sprite/BONUSPastelUI - sprite
+  bounds: 12, 84, 12, 12
+  index: 214
+sprite/BONUSPastelUI - sprite
+  bounds: 24, 84, 16, 12
+  index: 215
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 84, 16, 12
+  index: 216
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 84, 12, 12
+  index: 217
+sprite/BONUSPastelUI - sprite
+  bounds: 68, 84, 12, 12
+  index: 218
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 84, 16, 12
+  index: 219
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 84, 16, 12
+  index: 220
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 84, 12, 12
+  index: 221
+sprite/BONUSPastelUI - sprite
+  bounds: 124, 84, 12, 12
+  index: 222
+sprite/BONUSPastelUI - sprite
+  bounds: 136, 84, 16, 12
+  index: 223
+sprite/BONUSPastelUI - sprite
+  bounds: 152, 84, 16, 12
+  index: 224
+sprite/BONUSPastelUI - sprite
+  bounds: 168, 84, 12, 12
+  index: 225
+sprite/BONUSPastelUI - sprite
+  bounds: 180, 84, 12, 12
+  index: 226
+sprite/BONUSPastelUI - sprite
+  bounds: 192, 84, 16, 12
+  index: 227
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 84, 16, 12
+  index: 228
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 84, 12, 12
+  index: 229
+sprite/BONUSPastelUI - sprite
+  bounds: 236, 84, 12, 12
+  index: 230
+sprite/BONUSPastelUI - sprite
+  bounds: 248, 84, 16, 12
+  index: 231
+sprite/BONUSPastelUI - sprite
+  bounds: 264, 84, 16, 12
+  index: 232
+sprite/BONUSPastelUI - sprite
+  bounds: 351, 39, 12, 11
+  index: 233
+sprite/BONUSPastelUI - sprite
+  bounds: 363, 39, 12, 11
+  index: 234
+sprite/BONUSPastelUI - sprite
+  bounds: 375, 39, 16, 11
+  index: 235
+sprite/BONUSPastelUI - sprite
+  bounds: 391, 39, 16, 11
+  index: 236
+sprite/BONUSPastelUI - sprite
+  bounds: 407, 39, 12, 11
+  index: 237
+sprite/BONUSPastelUI - sprite
+  bounds: 419, 39, 12, 11
+  index: 238
+sprite/BONUSPastelUI - sprite
+  bounds: 431, 39, 16, 11
+  index: 239
+sprite/BONUSPastelUI - sprite
+  bounds: 447, 39, 16, 11
+  index: 240
+sprite/BONUSPastelUI - sprite
+  bounds: 463, 39, 12, 11
+  index: 241
+sprite/BONUSPastelUI - sprite
+  bounds: 475, 39, 12, 11
+  index: 242
+sprite/BONUSPastelUI - sprite
+  bounds: 487, 39, 16, 11
+  index: 243
+sprite/BONUSPastelUI - sprite
+  bounds: 503, 39, 15, 11
+  index: 244
+sprite/BONUSPastelUI - sprite
+  bounds: 518, 39, 12, 11
+  index: 245
+sprite/BONUSPastelUI - sprite
+  bounds: 530, 39, 12, 11
+  index: 246
+sprite/BONUSPastelUI - sprite
+  bounds: 542, 39, 16, 11
+  index: 247
+sprite/BONUSPastelUI - sprite
+  bounds: 558, 39, 16, 11
+  index: 248
+sprite/BONUSPastelUI - sprite
+  bounds: 574, 39, 12, 11
+  index: 249
+sprite/BONUSPastelUI - sprite
+  bounds: 586, 39, 12, 11
+  index: 250
+sprite/BONUSPastelUI - sprite
+  bounds: 598, 39, 16, 11
+  index: 251
+sprite/BONUSPastelUI - sprite
+  bounds: 614, 39, 16, 11
+  index: 252
+sprite/BONUSPastelUI - sprite
+  bounds: 790, 339, 90, 29
+  index: 263
+sprite/BONUSPastelUI - sprite
+  bounds: 600, 185, 16, 16
+  index: 264
+sprite/BONUSPastelUI - sprite
+  bounds: 616, 185, 16, 16
+  index: 265
+sprite/BONUSPastelUI - sprite
+  bounds: 632, 185, 12, 16
+  index: 266
+sprite/BONUSPastelUI - sprite
+  bounds: 644, 185, 12, 16
+  index: 267
+sprite/BONUSPastelUI - sprite
+  bounds: 656, 185, 16, 16
+  index: 268
+sprite/BONUSPastelUI - sprite
+  bounds: 672, 185, 16, 16
+  index: 269
+sprite/BONUSPastelUI - sprite
+  bounds: 688, 185, 12, 16
+  index: 270
+sprite/BONUSPastelUI - sprite
+  bounds: 700, 185, 12, 16
+  index: 271
+sprite/BONUSPastelUI - sprite
+  bounds: 712, 185, 16, 16
+  index: 272
+sprite/BONUSPastelUI - sprite
+  bounds: 728, 185, 16, 16
+  index: 273
+sprite/BONUSPastelUI - sprite
+  bounds: 744, 185, 12, 16
+  index: 274
+sprite/BONUSPastelUI - sprite
+  bounds: 756, 185, 12, 16
+  index: 275
+sprite/BONUSPastelUI - sprite
+  bounds: 768, 185, 16, 16
+  index: 276
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 185, 16, 16
+  index: 277
+sprite/BONUSPastelUI - sprite
+  bounds: 800, 185, 12, 16
+  index: 278
+sprite/BONUSPastelUI - sprite
+  bounds: 812, 185, 12, 16
+  index: 279
+sprite/BONUSPastelUI - sprite
+  bounds: 824, 185, 16, 16
+  index: 280
+sprite/BONUSPastelUI - sprite
+  bounds: 840, 185, 16, 16
+  index: 281
+sprite/BONUSPastelUI - sprite
+  bounds: 856, 185, 12, 16
+  index: 282
+sprite/BONUSPastelUI - sprite
+  bounds: 868, 185, 12, 16
+  index: 283
+sprite/BONUSPastelUI - sprite
+  bounds: 340, 339, 90, 28
+  index: 284
+sprite/BONUSPastelUI - sprite
+  bounds: 640, 124, 16, 15
+  index: 285
+sprite/BONUSPastelUI - sprite
+  bounds: 656, 124, 16, 15
+  index: 286
+sprite/BONUSPastelUI - sprite
+  bounds: 672, 124, 12, 15
+  index: 287
+sprite/BONUSPastelUI - sprite
+  bounds: 684, 124, 12, 15
+  index: 288
+sprite/BONUSPastelUI - sprite
+  bounds: 696, 124, 16, 15
+  index: 289
+sprite/BONUSPastelUI - sprite
+  bounds: 712, 124, 16, 15
+  index: 290
+sprite/BONUSPastelUI - sprite
+  bounds: 728, 124, 12, 15
+  index: 291
+sprite/BONUSPastelUI - sprite
+  bounds: 740, 124, 12, 15
+  index: 292
+sprite/BONUSPastelUI - sprite
+  bounds: 752, 124, 16, 15
+  index: 293
+sprite/BONUSPastelUI - sprite
+  bounds: 768, 124, 16, 15
+  index: 294
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 124, 12, 15
+  index: 295
+sprite/BONUSPastelUI - sprite
+  bounds: 796, 124, 12, 15
+  index: 296
+sprite/BONUSPastelUI - sprite
+  bounds: 808, 124, 16, 15
+  index: 297
+sprite/BONUSPastelUI - sprite
+  bounds: 824, 124, 16, 15
+  index: 298
+sprite/BONUSPastelUI - sprite
+  bounds: 840, 124, 12, 15
+  index: 299
+sprite/BONUSPastelUI - sprite
+  bounds: 852, 124, 12, 15
+  index: 300
+sprite/BONUSPastelUI - sprite
+  bounds: 864, 124, 16, 15
+  index: 301
+sprite/BONUSPastelUI - sprite
+  bounds: 880, 124, 16, 15
+  index: 302
+sprite/BONUSPastelUI - sprite
+  bounds: 896, 124, 12, 15
+  index: 303
+sprite/BONUSPastelUI - sprite
+  bounds: 908, 124, 12, 15
+  index: 304
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 339, 80, 27
+  index: 305
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 339, 80, 27
+  index: 306
+sprite/BONUSPastelUI - sprite
+  bounds: 880, 185, 16, 16
+  index: 307
+sprite/BONUSPastelUI - sprite
+  bounds: 896, 185, 16, 16
+  index: 308
+sprite/BONUSPastelUI - sprite
+  bounds: 912, 185, 12, 16
+  index: 309
+sprite/BONUSPastelUI - sprite
+  bounds: 924, 185, 12, 16
+  index: 310
+sprite/BONUSPastelUI - sprite
+  bounds: 936, 185, 16, 16
+  index: 311
+sprite/BONUSPastelUI - sprite
+  bounds: 952, 185, 16, 16
+  index: 312
+sprite/BONUSPastelUI - sprite
+  bounds: 968, 185, 12, 16
+  index: 313
+sprite/BONUSPastelUI - sprite
+  bounds: 980, 185, 12, 16
+  index: 314
+sprite/BONUSPastelUI - sprite
+  bounds: 992, 185, 16, 16
+  index: 315
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 201, 16, 16
+  index: 316
+sprite/BONUSPastelUI - sprite
+  bounds: 16, 201, 12, 16
+  index: 317
+sprite/BONUSPastelUI - sprite
+  bounds: 28, 201, 12, 16
+  index: 318
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 201, 16, 16
+  index: 319
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 201, 16, 16
+  index: 320
+sprite/BONUSPastelUI - sprite
+  bounds: 72, 201, 12, 16
+  index: 321
+sprite/BONUSPastelUI - sprite
+  bounds: 84, 201, 12, 16
+  index: 322
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 201, 16, 16
+  index: 323
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 201, 16, 16
+  index: 324
+sprite/BONUSPastelUI - sprite
+  bounds: 128, 201, 12, 16
+  index: 325
+sprite/BONUSPastelUI - sprite
+  bounds: 140, 201, 12, 16
+  index: 326
+sprite/BONUSPastelUI - sprite
+  bounds: 920, 124, 16, 15
+  index: 327
+sprite/BONUSPastelUI - sprite
+  bounds: 936, 124, 16, 15
+  index: 328
+sprite/BONUSPastelUI - sprite
+  bounds: 952, 124, 12, 15
+  index: 329
+sprite/BONUSPastelUI - sprite
+  bounds: 964, 124, 12, 15
+  index: 330
+sprite/BONUSPastelUI - sprite
+  bounds: 976, 124, 16, 15
+  index: 331
+sprite/BONUSPastelUI - sprite
+  bounds: 992, 124, 16, 15
+  index: 332
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 139, 12, 15
+  index: 333
+sprite/BONUSPastelUI - sprite
+  bounds: 12, 139, 12, 15
+  index: 334
+sprite/BONUSPastelUI - sprite
+  bounds: 24, 139, 16, 15
+  index: 335
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 139, 16, 15
+  index: 336
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 139, 12, 15
+  index: 337
+sprite/BONUSPastelUI - sprite
+  bounds: 68, 139, 12, 15
+  index: 338
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 139, 16, 15
+  index: 339
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 139, 16, 15
+  index: 340
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 139, 12, 15
+  index: 341
+sprite/BONUSPastelUI - sprite
+  bounds: 124, 139, 12, 15
+  index: 342
+sprite/BONUSPastelUI - sprite
+  bounds: 136, 139, 16, 15
+  index: 343
+sprite/BONUSPastelUI - sprite
+  bounds: 152, 139, 16, 15
+  index: 344
+sprite/BONUSPastelUI - sprite
+  bounds: 168, 139, 12, 15
+  index: 345
+sprite/BONUSPastelUI - sprite
+  bounds: 180, 139, 12, 15
+  index: 346
+sprite/BONUSPastelUI - sprite
+  bounds: 368, 233, 54, 17
+  index: 347
+sprite/BONUSPastelUI - sprite
+  bounds: 422, 233, 54, 17
+  index: 348
+sprite/BONUSPastelUI - sprite
+  bounds: 476, 233, 54, 17
+  index: 349
+sprite/BONUSPastelUI - sprite
+  bounds: 880, 339, 90, 29
+  index: 350
+sprite/BONUSPastelUI - sprite
+  bounds: 152, 201, 16, 16
+  index: 351
+sprite/BONUSPastelUI - sprite
+  bounds: 168, 201, 16, 16
+  index: 352
+sprite/BONUSPastelUI - sprite
+  bounds: 184, 201, 12, 16
+  index: 353
+sprite/BONUSPastelUI - sprite
+  bounds: 196, 201, 12, 16
+  index: 354
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 201, 16, 16
+  index: 355
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 201, 16, 16
+  index: 356
+sprite/BONUSPastelUI - sprite
+  bounds: 240, 201, 12, 16
+  index: 357
+sprite/BONUSPastelUI - sprite
+  bounds: 252, 201, 12, 16
+  index: 358
+sprite/BONUSPastelUI - sprite
+  bounds: 264, 201, 16, 16
+  index: 359
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 201, 16, 16
+  index: 360
+sprite/BONUSPastelUI - sprite
+  bounds: 296, 201, 12, 16
+  index: 361
+sprite/BONUSPastelUI - sprite
+  bounds: 308, 201, 12, 16
+  index: 362
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 201, 16, 16
+  index: 363
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 201, 16, 16
+  index: 364
+sprite/BONUSPastelUI - sprite
+  bounds: 352, 201, 12, 16
+  index: 365
+sprite/BONUSPastelUI - sprite
+  bounds: 364, 201, 12, 16
+  index: 366
+sprite/BONUSPastelUI - sprite
+  bounds: 376, 201, 16, 16
+  index: 367
+sprite/BONUSPastelUI - sprite
+  bounds: 392, 201, 16, 16
+  index: 368
+sprite/BONUSPastelUI - sprite
+  bounds: 408, 201, 12, 16
+  index: 369
+sprite/BONUSPastelUI - sprite
+  bounds: 420, 201, 12, 16
+  index: 370
+sprite/BONUSPastelUI - sprite
+  bounds: 192, 139, 16, 15
+  index: 371
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 139, 16, 15
+  index: 372
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 139, 12, 15
+  index: 373
+sprite/BONUSPastelUI - sprite
+  bounds: 236, 139, 12, 15
+  index: 374
+sprite/BONUSPastelUI - sprite
+  bounds: 248, 139, 16, 15
+  index: 375
+sprite/BONUSPastelUI - sprite
+  bounds: 264, 139, 16, 15
+  index: 376
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 139, 12, 15
+  index: 377
+sprite/BONUSPastelUI - sprite
+  bounds: 292, 139, 12, 15
+  index: 378
+sprite/BONUSPastelUI - sprite
+  bounds: 304, 139, 16, 15
+  index: 379
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 139, 16, 15
+  index: 380
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 139, 12, 15
+  index: 381
+sprite/BONUSPastelUI - sprite
+  bounds: 348, 139, 12, 15
+  index: 382
+sprite/BONUSPastelUI - sprite
+  bounds: 360, 139, 16, 15
+  index: 383
+sprite/BONUSPastelUI - sprite
+  bounds: 376, 139, 16, 15
+  index: 384
+sprite/BONUSPastelUI - sprite
+  bounds: 392, 139, 12, 15
+  index: 385
+sprite/BONUSPastelUI - sprite
+  bounds: 404, 139, 12, 15
+  index: 386
+sprite/BONUSPastelUI - sprite
+  bounds: 416, 139, 16, 15
+  index: 387
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 139, 16, 15
+  index: 388
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 139, 12, 15
+  index: 389
+sprite/BONUSPastelUI - sprite
+  bounds: 460, 139, 12, 15
+  index: 390
+sprite/BONUSPastelUI - sprite
+  bounds: 160, 339, 90, 27
+  index: 391
+sprite/BONUSPastelUI - sprite
+  bounds: 530, 233, 54, 17
+  index: 392
+sprite/BONUSPastelUI - sprite
+  bounds: 584, 233, 54, 17
+  index: 393
+sprite/BONUSPastelUI - sprite
+  bounds: 638, 233, 54, 17
+  index: 394
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 84, 12, 12
+  index: 395
+sprite/BONUSPastelUI - sprite
+  bounds: 292, 84, 12, 12
+  index: 396
+sprite/BONUSPastelUI - sprite
+  bounds: 304, 84, 16, 12
+  index: 397
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 84, 16, 12
+  index: 398
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 84, 12, 12
+  index: 399
+sprite/BONUSPastelUI - sprite
+  bounds: 348, 84, 12, 12
+  index: 400
+sprite/BONUSPastelUI - sprite
+  bounds: 360, 84, 16, 12
+  index: 401
+sprite/BONUSPastelUI - sprite
+  bounds: 376, 84, 16, 12
+  index: 402
+sprite/BONUSPastelUI - sprite
+  bounds: 392, 84, 12, 12
+  index: 403
+sprite/BONUSPastelUI - sprite
+  bounds: 404, 84, 12, 12
+  index: 404
+sprite/BONUSPastelUI - sprite
+  bounds: 416, 84, 16, 12
+  index: 405
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 84, 16, 12
+  index: 406
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 84, 12, 12
+  index: 407
+sprite/BONUSPastelUI - sprite
+  bounds: 460, 84, 12, 12
+  index: 408
+sprite/BONUSPastelUI - sprite
+  bounds: 472, 84, 16, 12
+  index: 409
+sprite/BONUSPastelUI - sprite
+  bounds: 488, 84, 16, 12
+  index: 410
+sprite/BONUSPastelUI - sprite
+  bounds: 504, 84, 12, 12
+  index: 411
+sprite/BONUSPastelUI - sprite
+  bounds: 516, 84, 12, 12
+  index: 412
+sprite/BONUSPastelUI - sprite
+  bounds: 528, 84, 16, 12
+  index: 413
+sprite/BONUSPastelUI - sprite
+  bounds: 544, 84, 16, 12
+  index: 414
+sprite/BONUSPastelUI - sprite
+  bounds: 630, 39, 12, 11
+  index: 415
+sprite/BONUSPastelUI - sprite
+  bounds: 642, 39, 12, 11
+  index: 416
+sprite/BONUSPastelUI - sprite
+  bounds: 654, 39, 16, 11
+  index: 417
+sprite/BONUSPastelUI - sprite
+  bounds: 670, 39, 16, 11
+  index: 418
+sprite/BONUSPastelUI - sprite
+  bounds: 686, 39, 12, 11
+  index: 419
+sprite/BONUSPastelUI - sprite
+  bounds: 698, 39, 12, 11
+  index: 420
+sprite/BONUSPastelUI - sprite
+  bounds: 710, 39, 16, 11
+  index: 421
+sprite/BONUSPastelUI - sprite
+  bounds: 726, 39, 16, 11
+  index: 422
+sprite/BONUSPastelUI - sprite
+  bounds: 742, 39, 12, 11
+  index: 423
+sprite/BONUSPastelUI - sprite
+  bounds: 754, 39, 12, 11
+  index: 424
+sprite/BONUSPastelUI - sprite
+  bounds: 766, 39, 16, 11
+  index: 425
+sprite/BONUSPastelUI - sprite
+  bounds: 782, 39, 16, 11
+  index: 426
+sprite/BONUSPastelUI - sprite
+  bounds: 798, 39, 12, 11
+  index: 427
+sprite/BONUSPastelUI - sprite
+  bounds: 810, 39, 12, 11
+  index: 428
+sprite/BONUSPastelUI - sprite
+  bounds: 822, 39, 16, 11
+  index: 429
+sprite/BONUSPastelUI - sprite
+  bounds: 838, 39, 16, 11
+  index: 430
+sprite/BONUSPastelUI - sprite
+  bounds: 854, 39, 12, 11
+  index: 431
+sprite/BONUSPastelUI - sprite
+  bounds: 866, 39, 12, 11
+  index: 432
+sprite/BONUSPastelUI - sprite
+  bounds: 878, 39, 16, 11
+  index: 433
+sprite/BONUSPastelUI - sprite
+  bounds: 894, 39, 16, 11
+  index: 434
+sprite/BONUSPastelUI - sprite
+  bounds: 692, 233, 54, 17
+  index: 435
+sprite/BONUSPastelUI - sprite
+  bounds: 746, 233, 54, 17
+  index: 436
+sprite/BONUSPastelUI - sprite
+  bounds: 800, 233, 54, 17
+  index: 437
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 368, 90, 29
+  index: 438
+sprite/BONUSPastelUI - sprite
+  bounds: 430, 339, 90, 28
+  index: 439
+sprite/BONUSPastelUI - sprite
+  bounds: 560, 84, 12, 12
+  index: 440
+sprite/BONUSPastelUI - sprite
+  bounds: 572, 84, 12, 12
+  index: 441
+sprite/BONUSPastelUI - sprite
+  bounds: 584, 84, 16, 12
+  index: 442
+sprite/BONUSPastelUI - sprite
+  bounds: 600, 84, 16, 12
+  index: 443
+sprite/BONUSPastelUI - sprite
+  bounds: 616, 84, 12, 12
+  index: 444
+sprite/BONUSPastelUI - sprite
+  bounds: 628, 84, 12, 12
+  index: 445
+sprite/BONUSPastelUI - sprite
+  bounds: 640, 84, 16, 12
+  index: 446
+sprite/BONUSPastelUI - sprite
+  bounds: 656, 84, 16, 12
+  index: 447
+sprite/BONUSPastelUI - sprite
+  bounds: 672, 84, 12, 12
+  index: 448
+sprite/BONUSPastelUI - sprite
+  bounds: 684, 84, 12, 12
+  index: 449
+sprite/BONUSPastelUI - sprite
+  bounds: 696, 84, 16, 12
+  index: 450
+sprite/BONUSPastelUI - sprite
+  bounds: 712, 84, 16, 12
+  index: 451
+sprite/BONUSPastelUI - sprite
+  bounds: 728, 84, 12, 12
+  index: 452
+sprite/BONUSPastelUI - sprite
+  bounds: 740, 84, 12, 12
+  index: 453
+sprite/BONUSPastelUI - sprite
+  bounds: 752, 84, 16, 12
+  index: 454
+sprite/BONUSPastelUI - sprite
+  bounds: 768, 84, 16, 12
+  index: 455
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 84, 12, 12
+  index: 456
+sprite/BONUSPastelUI - sprite
+  bounds: 796, 84, 12, 12
+  index: 457
+sprite/BONUSPastelUI - sprite
+  bounds: 808, 84, 16, 12
+  index: 458
+sprite/BONUSPastelUI - sprite
+  bounds: 824, 84, 16, 12
+  index: 459
+sprite/BONUSPastelUI - sprite
+  bounds: 910, 39, 12, 11
+  index: 460
+sprite/BONUSPastelUI - sprite
+  bounds: 922, 39, 12, 11
+  index: 461
+sprite/BONUSPastelUI - sprite
+  bounds: 934, 39, 16, 11
+  index: 462
+sprite/BONUSPastelUI - sprite
+  bounds: 950, 39, 16, 11
+  index: 463
+sprite/BONUSPastelUI - sprite
+  bounds: 966, 39, 12, 11
+  index: 464
+sprite/BONUSPastelUI - sprite
+  bounds: 978, 39, 12, 11
+  index: 465
+sprite/BONUSPastelUI - sprite
+  bounds: 990, 39, 16, 11
+  index: 466
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 50, 16, 11
+  index: 467
+sprite/BONUSPastelUI - sprite
+  bounds: 16, 50, 12, 11
+  index: 468
+sprite/BONUSPastelUI - sprite
+  bounds: 28, 50, 12, 11
+  index: 469
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 50, 16, 11
+  index: 470
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 50, 16, 11
+  index: 471
+sprite/BONUSPastelUI - sprite
+  bounds: 72, 50, 12, 11
+  index: 472
+sprite/BONUSPastelUI - sprite
+  bounds: 84, 50, 12, 11
+  index: 473
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 50, 16, 11
+  index: 474
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 50, 16, 11
+  index: 475
+sprite/BONUSPastelUI - sprite
+  bounds: 128, 50, 12, 11
+  index: 476
+sprite/BONUSPastelUI - sprite
+  bounds: 140, 50, 12, 11
+  index: 477
+sprite/BONUSPastelUI - sprite
+  bounds: 152, 50, 16, 11
+  index: 478
+sprite/BONUSPastelUI - sprite
+  bounds: 168, 50, 16, 11
+  index: 479
+sprite/BONUSPastelUI - sprite
+  bounds: 854, 233, 54, 17
+  index: 480
+sprite/BONUSPastelUI - sprite
+  bounds: 908, 233, 54, 17
+  index: 481
+sprite/BONUSPastelUI - sprite
+  bounds: 962, 233, 54, 17
+  index: 482
+sprite/BONUSPastelUI - sprite
+  bounds: 840, 84, 12, 12
+  index: 483
+sprite/BONUSPastelUI - sprite
+  bounds: 852, 84, 12, 12
+  index: 484
+sprite/BONUSPastelUI - sprite
+  bounds: 864, 84, 16, 12
+  index: 485
+sprite/BONUSPastelUI - sprite
+  bounds: 880, 84, 16, 12
+  index: 486
+sprite/BONUSPastelUI - sprite
+  bounds: 896, 84, 12, 12
+  index: 487
+sprite/BONUSPastelUI - sprite
+  bounds: 908, 84, 12, 12
+  index: 488
+sprite/BONUSPastelUI - sprite
+  bounds: 920, 84, 16, 12
+  index: 489
+sprite/BONUSPastelUI - sprite
+  bounds: 936, 84, 16, 12
+  index: 490
+sprite/BONUSPastelUI - sprite
+  bounds: 952, 84, 12, 12
+  index: 491
+sprite/BONUSPastelUI - sprite
+  bounds: 964, 84, 12, 12
+  index: 492
+sprite/BONUSPastelUI - sprite
+  bounds: 976, 84, 16, 12
+  index: 493
+sprite/BONUSPastelUI - sprite
+  bounds: 992, 84, 16, 12
+  index: 494
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 96, 12, 12
+  index: 495
+sprite/BONUSPastelUI - sprite
+  bounds: 12, 96, 12, 12
+  index: 496
+sprite/BONUSPastelUI - sprite
+  bounds: 24, 96, 16, 12
+  index: 497
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 96, 16, 12
+  index: 498
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 96, 12, 12
+  index: 499
+sprite/BONUSPastelUI - sprite
+  bounds: 68, 96, 12, 12
+  index: 500
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 96, 16, 12
+  index: 501
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 96, 16, 12
+  index: 502
+sprite/BONUSPastelUI - sprite
+  bounds: 184, 50, 12, 11
+  index: 503
+sprite/BONUSPastelUI - sprite
+  bounds: 196, 50, 12, 11
+  index: 504
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 50, 16, 11
+  index: 505
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 50, 16, 11
+  index: 506
+sprite/BONUSPastelUI - sprite
+  bounds: 240, 50, 12, 11
+  index: 507
+sprite/BONUSPastelUI - sprite
+  bounds: 252, 50, 12, 11
+  index: 508
+sprite/BONUSPastelUI - sprite
+  bounds: 264, 50, 16, 11
+  index: 509
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 50, 16, 11
+  index: 510
+sprite/BONUSPastelUI - sprite
+  bounds: 296, 50, 12, 11
+  index: 511
+sprite/BONUSPastelUI - sprite
+  bounds: 308, 50, 12, 11
+  index: 512
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 50, 16, 11
+  index: 513
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 50, 16, 11
+  index: 514
+sprite/BONUSPastelUI - sprite
+  bounds: 352, 50, 12, 11
+  index: 515
+sprite/BONUSPastelUI - sprite
+  bounds: 364, 50, 12, 11
+  index: 516
+sprite/BONUSPastelUI - sprite
+  bounds: 376, 50, 16, 11
+  index: 517
+sprite/BONUSPastelUI - sprite
+  bounds: 392, 50, 16, 11
+  index: 518
+sprite/BONUSPastelUI - sprite
+  bounds: 408, 50, 12, 11
+  index: 519
+sprite/BONUSPastelUI - sprite
+  bounds: 420, 50, 12, 11
+  index: 520
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 50, 16, 11
+  index: 521
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 50, 16, 11
+  index: 522
+sprite/BONUSPastelUI - sprite
+  bounds: 832, 250, 50, 18
+  index: 533
+sprite/BONUSPastelUI - sprite
+  bounds: 882, 250, 34, 18
+  index: 534
+sprite/BONUSPastelUI - sprite
+  bounds: 916, 250, 18, 18
+  index: 535
+sprite/BONUSPastelUI - sprite
+  bounds: 934, 250, 50, 18
+  index: 536
+sprite/BONUSPastelUI - sprite
+  bounds: 984, 250, 34, 18
+  index: 537
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 268, 18, 18
+  index: 538
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 250, 54, 17
+  index: 539
+sprite/BONUSPastelUI - sprite
+  bounds: 54, 250, 54, 17
+  index: 540
+sprite/BONUSPastelUI - sprite
+  bounds: 108, 250, 54, 17
+  index: 541
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 201, 13, 16
+  index: 542
+sprite/BONUSPastelUI - sprite
+  bounds: 445, 201, 13, 16
+  index: 543
+sprite/BONUSPastelUI - sprite
+  bounds: 458, 201, 13, 16
+  index: 544
+sprite/BONUSPastelUI - sprite
+  bounds: 471, 201, 13, 16
+  index: 545
+sprite/BONUSPastelUI - sprite
+  bounds: 484, 201, 13, 16
+  index: 546
+sprite/BONUSPastelUI - sprite
+  bounds: 90, 368, 90, 29
+  index: 547
+sprite/BONUSPastelUI - sprite
+  bounds: 250, 339, 90, 27
+  index: 548
+sprite/BONUSPastelUI - sprite
+  bounds: 945, 18, 14, 10
+  index: 549
+sprite/BONUSPastelUI - sprite
+  bounds: 959, 18, 14, 10
+  index: 550
+sprite/BONUSPastelUI - sprite
+  bounds: 973, 18, 14, 10
+  index: 551
+sprite/BONUSPastelUI - sprite
+  bounds: 987, 18, 4, 10
+  index: 552
+sprite/BONUSPastelUI - sprite
+  bounds: 991, 18, 4, 10
+  index: 553
+sprite/BONUSPastelUI - sprite
+  bounds: 995, 18, 6, 10
+  index: 554
+sprite/BONUSPastelUI - sprite
+  bounds: 1001, 18, 4, 10
+  index: 555
+sprite/BONUSPastelUI - sprite
+  bounds: 1005, 18, 4, 10
+  index: 556
+sprite/BONUSPastelUI - sprite
+  bounds: 1009, 18, 6, 10
+  index: 557
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 28, 4, 10
+  index: 558
+sprite/BONUSPastelUI - sprite
+  bounds: 4, 28, 4, 10
+  index: 559
+sprite/BONUSPastelUI - sprite
+  bounds: 8, 28, 6, 10
+  index: 560
+sprite/BONUSPastelUI - sprite
+  bounds: 14, 28, 4, 10
+  index: 561
+sprite/BONUSPastelUI - sprite
+  bounds: 18, 28, 4, 10
+  index: 562
+sprite/BONUSPastelUI - sprite
+  bounds: 22, 28, 6, 10
+  index: 563
+sprite/BONUSPastelUI - sprite
+  bounds: 28, 28, 4, 10
+  index: 564
+sprite/BONUSPastelUI - sprite
+  bounds: 32, 28, 4, 10
+  index: 565
+sprite/BONUSPastelUI - sprite
+  bounds: 36, 28, 6, 10
+  index: 566
+sprite/BONUSPastelUI - sprite
+  bounds: 42, 28, 4, 10
+  index: 567
+sprite/BONUSPastelUI - sprite
+  bounds: 46, 28, 4, 10
+  index: 568
+sprite/BONUSPastelUI - sprite
+  bounds: 50, 28, 6, 10
+  index: 569
+sprite/BONUSPastelUI - sprite
+  bounds: 56, 28, 4, 10
+  index: 570
+sprite/BONUSPastelUI - sprite
+  bounds: 60, 28, 4, 10
+  index: 571
+sprite/BONUSPastelUI - sprite
+  bounds: 64, 28, 6, 10
+  index: 572
+sprite/BONUSPastelUI - sprite
+  bounds: 70, 28, 14, 10
+  index: 573
+sprite/BONUSPastelUI - sprite
+  bounds: 84, 28, 14, 10
+  index: 574
+sprite/BONUSPastelUI - sprite
+  bounds: 98, 28, 14, 10
+  index: 575
+sprite/BONUSPastelUI - sprite
+  bounds: 162, 250, 54, 17
+  index: 576
+sprite/BONUSPastelUI - sprite
+  bounds: 216, 250, 54, 17
+  index: 577
+sprite/BONUSPastelUI - sprite
+  bounds: 270, 250, 54, 17
+  index: 578
+sprite/BONUSPastelUI - sprite
+  bounds: 497, 201, 13, 16
+  index: 579
+sprite/BONUSPastelUI - sprite
+  bounds: 510, 201, 13, 16
+  index: 580
+sprite/BONUSPastelUI - sprite
+  bounds: 523, 201, 13, 16
+  index: 581
+sprite/BONUSPastelUI - sprite
+  bounds: 536, 201, 13, 16
+  index: 582
+sprite/BONUSPastelUI - sprite
+  bounds: 549, 201, 13, 16
+  index: 583
+sprite/BONUSPastelUI - sprite
+  bounds: 137, 109, 10, 14
+  index: 584
+sprite/BONUSPastelUI - sprite
+  bounds: 147, 109, 10, 14
+  index: 585
+sprite/BONUSPastelUI - sprite
+  bounds: 157, 109, 10, 14
+  index: 586
+sprite/BONUSPastelUI - sprite
+  bounds: 167, 109, 10, 14
+  index: 587
+sprite/BONUSPastelUI - sprite
+  bounds: 177, 109, 10, 14
+  index: 588
+sprite/BONUSPastelUI - sprite
+  bounds: 187, 109, 10, 14
+  index: 589
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 28, 4, 10
+  index: 590
+sprite/BONUSPastelUI - sprite
+  bounds: 116, 28, 4, 10
+  index: 591
+sprite/BONUSPastelUI - sprite
+  bounds: 120, 28, 6, 10
+  index: 592
+sprite/BONUSPastelUI - sprite
+  bounds: 126, 28, 4, 10
+  index: 593
+sprite/BONUSPastelUI - sprite
+  bounds: 130, 28, 4, 10
+  index: 594
+sprite/BONUSPastelUI - sprite
+  bounds: 134, 28, 6, 10
+  index: 595
+sprite/BONUSPastelUI - sprite
+  bounds: 140, 28, 4, 10
+  index: 596
+sprite/BONUSPastelUI - sprite
+  bounds: 144, 28, 4, 10
+  index: 597
+sprite/BONUSPastelUI - sprite
+  bounds: 148, 28, 6, 10
+  index: 598
+sprite/BONUSPastelUI - sprite
+  bounds: 154, 28, 4, 10
+  index: 599
+sprite/BONUSPastelUI - sprite
+  bounds: 158, 28, 4, 10
+  index: 600
+sprite/BONUSPastelUI - sprite
+  bounds: 162, 28, 6, 10
+  index: 601
+sprite/BONUSPastelUI - sprite
+  bounds: 168, 28, 4, 10
+  index: 602
+sprite/BONUSPastelUI - sprite
+  bounds: 172, 28, 4, 10
+  index: 603
+sprite/BONUSPastelUI - sprite
+  bounds: 176, 28, 6, 10
+  index: 604
+sprite/BONUSPastelUI - sprite
+  bounds: 182, 28, 4, 10
+  index: 605
+sprite/BONUSPastelUI - sprite
+  bounds: 186, 28, 4, 10
+  index: 606
+sprite/BONUSPastelUI - sprite
+  bounds: 190, 28, 6, 10
+  index: 607
+sprite/BONUSPastelUI - sprite
+  bounds: 196, 28, 4, 10
+  index: 608
+sprite/BONUSPastelUI - sprite
+  bounds: 200, 28, 4, 10
+  index: 609
+sprite/BONUSPastelUI - sprite
+  bounds: 204, 28, 6, 10
+  index: 610
+sprite/BONUSPastelUI - sprite
+  bounds: 18, 268, 34, 18
+  index: 611
+sprite/BONUSPastelUI - sprite
+  bounds: 52, 268, 50, 18
+  index: 612
+sprite/BONUSPastelUI - sprite
+  bounds: 102, 268, 34, 18
+  index: 613
+sprite/BONUSPastelUI - sprite
+  bounds: 136, 268, 18, 18
+  index: 614
+sprite/BONUSPastelUI - sprite
+  bounds: 154, 268, 50, 18
+  index: 615
+sprite/BONUSPastelUI - sprite
+  bounds: 204, 268, 18, 18
+  index: 616
+sprite/BONUSPastelUI - sprite
+  bounds: 324, 250, 54, 17
+  index: 617
+sprite/BONUSPastelUI - sprite
+  bounds: 378, 250, 54, 17
+  index: 618
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 250, 54, 17
+  index: 619
+sprite/BONUSPastelUI - sprite
+  bounds: 562, 201, 13, 16
+  index: 620
+sprite/BONUSPastelUI - sprite
+  bounds: 575, 201, 13, 16
+  index: 621
+sprite/BONUSPastelUI - sprite
+  bounds: 588, 201, 13, 16
+  index: 622
+sprite/BONUSPastelUI - sprite
+  bounds: 601, 201, 13, 16
+  index: 623
+sprite/BONUSPastelUI - sprite
+  bounds: 614, 201, 13, 16
+  index: 624
+sprite/BONUSPastelUI - sprite
+  bounds: 464, 50, 10, 11
+  index: 625
+sprite/BONUSPastelUI - sprite
+  bounds: 474, 50, 10, 11
+  index: 626
+sprite/BONUSPastelUI - sprite
+  bounds: 210, 28, 14, 10
+  index: 627
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 28, 14, 10
+  index: 628
+sprite/BONUSPastelUI - sprite
+  bounds: 484, 50, 10, 11
+  index: 629
+sprite/BONUSPastelUI - sprite
+  bounds: 494, 50, 10, 11
+  index: 630
+sprite/BONUSPastelUI - sprite
+  bounds: 504, 50, 10, 11
+  index: 631
+sprite/BONUSPastelUI - sprite
+  bounds: 514, 50, 10, 11
+  index: 632
+sprite/BONUSPastelUI - sprite
+  bounds: 238, 28, 14, 10
+  index: 633
+sprite/BONUSPastelUI - sprite
+  bounds: 252, 28, 4, 10
+  index: 634
+sprite/BONUSPastelUI - sprite
+  bounds: 256, 28, 4, 10
+  index: 635
+sprite/BONUSPastelUI - sprite
+  bounds: 260, 28, 6, 10
+  index: 636
+sprite/BONUSPastelUI - sprite
+  bounds: 266, 28, 4, 10
+  index: 637
+sprite/BONUSPastelUI - sprite
+  bounds: 270, 28, 4, 10
+  index: 638
+sprite/BONUSPastelUI - sprite
+  bounds: 274, 28, 6, 10
+  index: 639
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 28, 4, 10
+  index: 640
+sprite/BONUSPastelUI - sprite
+  bounds: 284, 28, 4, 10
+  index: 641
+sprite/BONUSPastelUI - sprite
+  bounds: 288, 28, 6, 10
+  index: 642
+sprite/BONUSPastelUI - sprite
+  bounds: 294, 28, 4, 10
+  index: 643
+sprite/BONUSPastelUI - sprite
+  bounds: 298, 28, 4, 10
+  index: 644
+sprite/BONUSPastelUI - sprite
+  bounds: 302, 28, 6, 10
+  index: 645
+sprite/BONUSPastelUI - sprite
+  bounds: 308, 28, 4, 10
+  index: 646
+sprite/BONUSPastelUI - sprite
+  bounds: 312, 28, 4, 10
+  index: 647
+sprite/BONUSPastelUI - sprite
+  bounds: 316, 28, 6, 10
+  index: 648
+sprite/BONUSPastelUI - sprite
+  bounds: 322, 28, 4, 10
+  index: 649
+sprite/BONUSPastelUI - sprite
+  bounds: 326, 28, 4, 10
+  index: 650
+sprite/BONUSPastelUI - sprite
+  bounds: 330, 28, 6, 10
+  index: 651
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 28, 4, 10
+  index: 652
+sprite/BONUSPastelUI - sprite
+  bounds: 340, 28, 4, 10
+  index: 653
+sprite/BONUSPastelUI - sprite
+  bounds: 344, 28, 6, 10
+  index: 654
+sprite/BONUSPastelUI - sprite
+  bounds: 524, 50, 10, 11
+  index: 655
+sprite/BONUSPastelUI - sprite
+  bounds: 534, 50, 10, 11
+  index: 656
+sprite/BONUSPastelUI - sprite
+  bounds: 350, 28, 14, 10
+  index: 657
+sprite/BONUSPastelUI - sprite
+  bounds: 364, 28, 14, 10
+  index: 658
+sprite/BONUSPastelUI - sprite
+  bounds: 378, 28, 14, 10
+  index: 659
+sprite/BONUSPastelUI - sprite
+  bounds: 486, 250, 54, 17
+  index: 660
+sprite/BONUSPastelUI - sprite
+  bounds: 540, 250, 54, 17
+  index: 661
+sprite/BONUSPastelUI - sprite
+  bounds: 594, 250, 54, 17
+  index: 662
+sprite/BONUSPastelUI - sprite
+  bounds: 627, 201, 13, 16
+  index: 663
+sprite/BONUSPastelUI - sprite
+  bounds: 640, 201, 13, 16
+  index: 664
+sprite/BONUSPastelUI - sprite
+  bounds: 653, 201, 13, 16
+  index: 665
+sprite/BONUSPastelUI - sprite
+  bounds: 666, 201, 13, 16
+  index: 666
+sprite/BONUSPastelUI - sprite
+  bounds: 679, 201, 13, 16
+  index: 667
+sprite/BONUSPastelUI - sprite
+  bounds: 544, 50, 10, 11
+  index: 668
+sprite/BONUSPastelUI - sprite
+  bounds: 554, 50, 10, 11
+  index: 669
+sprite/BONUSPastelUI - sprite
+  bounds: 197, 109, 10, 14
+  index: 670
+sprite/BONUSPastelUI - sprite
+  bounds: 207, 109, 10, 14
+  index: 671
+sprite/BONUSPastelUI - sprite
+  bounds: 217, 109, 10, 14
+  index: 672
+sprite/BONUSPastelUI - sprite
+  bounds: 227, 109, 10, 14
+  index: 673
+sprite/BONUSPastelUI - sprite
+  bounds: 237, 109, 10, 14
+  index: 674
+sprite/BONUSPastelUI - sprite
+  bounds: 472, 139, 15, 15
+  index: 675
+sprite/BONUSPastelUI - sprite
+  bounds: 564, 50, 10, 11
+  index: 676
+sprite/BONUSPastelUI - sprite
+  bounds: 574, 50, 10, 11
+  index: 677
+sprite/BONUSPastelUI - sprite
+  bounds: 584, 50, 10, 11
+  index: 678
+sprite/BONUSPastelUI - sprite
+  bounds: 594, 50, 10, 11
+  index: 679
+sprite/BONUSPastelUI - sprite
+  bounds: 604, 50, 10, 11
+  index: 680
+sprite/BONUSPastelUI - sprite
+  bounds: 614, 50, 10, 11
+  index: 681
+sprite/BONUSPastelUI - sprite
+  bounds: 392, 28, 4, 10
+  index: 682
+sprite/BONUSPastelUI - sprite
+  bounds: 396, 28, 4, 10
+  index: 683
+sprite/BONUSPastelUI - sprite
+  bounds: 400, 28, 6, 10
+  index: 684
+sprite/BONUSPastelUI - sprite
+  bounds: 406, 28, 4, 10
+  index: 685
+sprite/BONUSPastelUI - sprite
+  bounds: 410, 28, 4, 10
+  index: 686
+sprite/BONUSPastelUI - sprite
+  bounds: 414, 28, 6, 10
+  index: 687
+sprite/BONUSPastelUI - sprite
+  bounds: 420, 28, 4, 10
+  index: 688
+sprite/BONUSPastelUI - sprite
+  bounds: 424, 28, 4, 10
+  index: 689
+sprite/BONUSPastelUI - sprite
+  bounds: 428, 28, 6, 10
+  index: 690
+sprite/BONUSPastelUI - sprite
+  bounds: 434, 28, 4, 10
+  index: 691
+sprite/BONUSPastelUI - sprite
+  bounds: 438, 28, 4, 10
+  index: 692
+sprite/BONUSPastelUI - sprite
+  bounds: 442, 28, 6, 10
+  index: 693
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 28, 4, 10
+  index: 694
+sprite/BONUSPastelUI - sprite
+  bounds: 452, 28, 4, 10
+  index: 695
+sprite/BONUSPastelUI - sprite
+  bounds: 456, 28, 6, 10
+  index: 696
+sprite/BONUSPastelUI - sprite
+  bounds: 462, 28, 4, 10
+  index: 697
+sprite/BONUSPastelUI - sprite
+  bounds: 466, 28, 4, 10
+  index: 698
+sprite/BONUSPastelUI - sprite
+  bounds: 470, 28, 6, 10
+  index: 699
+sprite/BONUSPastelUI - sprite
+  bounds: 476, 28, 4, 10
+  index: 700
+sprite/BONUSPastelUI - sprite
+  bounds: 480, 28, 4, 10
+  index: 701
+sprite/BONUSPastelUI - sprite
+  bounds: 484, 28, 6, 10
+  index: 702
+sprite/BONUSPastelUI - sprite
+  bounds: 222, 268, 50, 18
+  index: 703
+sprite/BONUSPastelUI - sprite
+  bounds: 272, 268, 34, 18
+  index: 704
+sprite/BONUSPastelUI - sprite
+  bounds: 306, 268, 18, 18
+  index: 705
+sprite/BONUSPastelUI - sprite
+  bounds: 324, 268, 50, 18
+  index: 706
+sprite/BONUSPastelUI - sprite
+  bounds: 374, 268, 34, 18
+  index: 707
+sprite/BONUSPastelUI - sprite
+  bounds: 408, 268, 18, 18
+  index: 708
+sprite/BONUSPastelUI - sprite
+  bounds: 355, 424, 90, 82
+  index: 709
+sprite/BONUSPastelUI - sprite
+  bounds: 445, 424, 90, 82
+  index: 710
+sprite/BONUSPastelUI - sprite
+  bounds: 535, 424, 90, 82
+  index: 711
+sprite/BONUSPastelUI - sprite
+  bounds: 692, 201, 16, 16
+  index: 712
+sprite/BONUSPastelUI - sprite
+  bounds: 708, 201, 16, 16
+  index: 713
+sprite/BONUSPastelUI - sprite
+  bounds: 724, 201, 16, 16
+  index: 714
+sprite/BONUSPastelUI - sprite
+  bounds: 740, 201, 16, 16
+  index: 715
+sprite/BONUSPastelUI - sprite
+  bounds: 756, 201, 16, 16
+  index: 716
+sprite/BONUSPastelUI - sprite
+  bounds: 772, 201, 16, 16
+  index: 717
+sprite/BONUSPastelUI - sprite
+  bounds: 788, 201, 16, 16
+  index: 718
+sprite/BONUSPastelUI - sprite
+  bounds: 804, 201, 16, 16
+  index: 719
+sprite/BONUSPastelUI - sprite
+  bounds: 487, 139, 16, 15
+  index: 720
+sprite/BONUSPastelUI - sprite
+  bounds: 503, 139, 16, 15
+  index: 721
+sprite/BONUSPastelUI - sprite
+  bounds: 519, 139, 16, 15
+  index: 722
+sprite/BONUSPastelUI - sprite
+  bounds: 535, 139, 16, 15
+  index: 723
+sprite/BONUSPastelUI - sprite
+  bounds: 551, 139, 16, 15
+  index: 724
+sprite/BONUSPastelUI - sprite
+  bounds: 567, 139, 16, 15
+  index: 725
+sprite/BONUSPastelUI - sprite
+  bounds: 583, 139, 16, 15
+  index: 726
+sprite/BONUSPastelUI - sprite
+  bounds: 599, 139, 16, 15
+  index: 727
+sprite/BONUSPastelUI - sprite
+  bounds: 624, 50, 10, 11
+  index: 728
+sprite/BONUSPastelUI - sprite
+  bounds: 634, 50, 10, 11
+  index: 729
+sprite/BONUSPastelUI - sprite
+  bounds: 644, 50, 10, 11
+  index: 730
+sprite/BONUSPastelUI - sprite
+  bounds: 654, 50, 10, 11
+  index: 731
+sprite/BONUSPastelUI - sprite
+  bounds: 664, 50, 10, 11
+  index: 732
+sprite/BONUSPastelUI - sprite
+  bounds: 674, 50, 10, 11
+  index: 733
+sprite/BONUSPastelUI - sprite
+  bounds: 490, 28, 14, 10
+  index: 734
+sprite/BONUSPastelUI - sprite
+  bounds: 504, 28, 14, 10
+  index: 735
+sprite/BONUSPastelUI - sprite
+  bounds: 518, 28, 14, 10
+  index: 736
+sprite/BONUSPastelUI - sprite
+  bounds: 684, 50, 10, 11
+  index: 737
+sprite/BONUSPastelUI - sprite
+  bounds: 694, 50, 10, 11
+  index: 738
+sprite/BONUSPastelUI - sprite
+  bounds: 532, 28, 14, 10
+  index: 739
+sprite/BONUSPastelUI - sprite
+  bounds: 546, 28, 14, 10
+  index: 740
+sprite/BONUSPastelUI - sprite
+  bounds: 560, 28, 14, 10
+  index: 741
+sprite/BONUSPastelUI - sprite
+  bounds: 820, 201, 16, 16
+  index: 742
+sprite/BONUSPastelUI - sprite
+  bounds: 836, 201, 16, 16
+  index: 743
+sprite/BONUSPastelUI - sprite
+  bounds: 852, 201, 16, 16
+  index: 744
+sprite/BONUSPastelUI - sprite
+  bounds: 868, 201, 16, 16
+  index: 745
+sprite/BONUSPastelUI - sprite
+  bounds: 884, 201, 16, 16
+  index: 746
+sprite/BONUSPastelUI - sprite
+  bounds: 900, 201, 16, 16
+  index: 747
+sprite/BONUSPastelUI - sprite
+  bounds: 916, 201, 16, 16
+  index: 748
+sprite/BONUSPastelUI - sprite
+  bounds: 932, 201, 16, 16
+  index: 749
+sprite/BONUSPastelUI - sprite
+  bounds: 615, 139, 16, 15
+  index: 750
+sprite/BONUSPastelUI - sprite
+  bounds: 631, 139, 16, 15
+  index: 751
+sprite/BONUSPastelUI - sprite
+  bounds: 647, 139, 16, 15
+  index: 752
+sprite/BONUSPastelUI - sprite
+  bounds: 663, 139, 16, 15
+  index: 753
+sprite/BONUSPastelUI - sprite
+  bounds: 679, 139, 16, 15
+  index: 754
+sprite/BONUSPastelUI - sprite
+  bounds: 695, 139, 16, 15
+  index: 755
+sprite/BONUSPastelUI - sprite
+  bounds: 711, 139, 16, 15
+  index: 756
+sprite/BONUSPastelUI - sprite
+  bounds: 727, 139, 16, 15
+  index: 757
+sprite/BONUSPastelUI - sprite
+  bounds: 704, 50, 10, 11
+  index: 758
+sprite/BONUSPastelUI - sprite
+  bounds: 714, 50, 10, 11
+  index: 759
+sprite/BONUSPastelUI - sprite
+  bounds: 247, 109, 10, 14
+  index: 760
+sprite/BONUSPastelUI - sprite
+  bounds: 257, 109, 10, 14
+  index: 761
+sprite/BONUSPastelUI - sprite
+  bounds: 267, 109, 10, 14
+  index: 762
+sprite/BONUSPastelUI - sprite
+  bounds: 277, 109, 10, 14
+  index: 763
+sprite/BONUSPastelUI - sprite
+  bounds: 287, 109, 10, 14
+  index: 764
+sprite/BONUSPastelUI - sprite
+  bounds: 297, 109, 10, 14
+  index: 765
+sprite/BONUSPastelUI - sprite
+  bounds: 724, 50, 10, 11
+  index: 766
+sprite/BONUSPastelUI - sprite
+  bounds: 734, 50, 10, 11
+  index: 767
+sprite/BONUSPastelUI - sprite
+  bounds: 744, 50, 10, 11
+  index: 768
+sprite/BONUSPastelUI - sprite
+  bounds: 754, 50, 10, 11
+  index: 769
+sprite/BONUSPastelUI - sprite
+  bounds: 764, 50, 10, 11
+  index: 770
+sprite/BONUSPastelUI - sprite
+  bounds: 774, 50, 10, 11
+  index: 771
+sprite/BONUSPastelUI - sprite
+  bounds: 426, 268, 50, 18
+  index: 772
+sprite/BONUSPastelUI - sprite
+  bounds: 476, 268, 34, 18
+  index: 773
+sprite/BONUSPastelUI - sprite
+  bounds: 510, 268, 18, 18
+  index: 774
+sprite/BONUSPastelUI - sprite
+  bounds: 528, 268, 50, 18
+  index: 775
+sprite/BONUSPastelUI - sprite
+  bounds: 578, 268, 34, 18
+  index: 776
+sprite/BONUSPastelUI - sprite
+  bounds: 612, 268, 18, 18
+  index: 777
+sprite/BONUSPastelUI - sprite
+  bounds: 948, 201, 16, 16
+  index: 778
+sprite/BONUSPastelUI - sprite
+  bounds: 964, 201, 16, 16
+  index: 779
+sprite/BONUSPastelUI - sprite
+  bounds: 980, 201, 16, 16
+  index: 780
+sprite/BONUSPastelUI - sprite
+  bounds: 996, 201, 16, 16
+  index: 781
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 217, 16, 16
+  index: 782
+sprite/BONUSPastelUI - sprite
+  bounds: 16, 217, 16, 16
+  index: 783
+sprite/BONUSPastelUI - sprite
+  bounds: 32, 217, 16, 16
+  index: 784
+sprite/BONUSPastelUI - sprite
+  bounds: 48, 217, 16, 16
+  index: 785
+sprite/BONUSPastelUI - sprite
+  bounds: 743, 139, 16, 15
+  index: 786
+sprite/BONUSPastelUI - sprite
+  bounds: 759, 139, 16, 15
+  index: 787
+sprite/BONUSPastelUI - sprite
+  bounds: 775, 139, 16, 15
+  index: 788
+sprite/BONUSPastelUI - sprite
+  bounds: 791, 139, 16, 15
+  index: 789
+sprite/BONUSPastelUI - sprite
+  bounds: 807, 139, 16, 15
+  index: 790
+sprite/BONUSPastelUI - sprite
+  bounds: 823, 139, 16, 15
+  index: 791
+sprite/BONUSPastelUI - sprite
+  bounds: 839, 139, 16, 15
+  index: 792
+sprite/BONUSPastelUI - sprite
+  bounds: 855, 139, 16, 15
+  index: 793
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 50, 10, 11
+  index: 794
+sprite/BONUSPastelUI - sprite
+  bounds: 794, 50, 10, 11
+  index: 795
+sprite/BONUSPastelUI - sprite
+  bounds: 804, 50, 10, 11
+  index: 796
+sprite/BONUSPastelUI - sprite
+  bounds: 814, 50, 10, 11
+  index: 797
+sprite/BONUSPastelUI - sprite
+  bounds: 824, 50, 10, 11
+  index: 798
+sprite/BONUSPastelUI - sprite
+  bounds: 834, 50, 10, 11
+  index: 799
+sprite/BONUSPastelUI - sprite
+  bounds: 574, 28, 14, 10
+  index: 800
+sprite/BONUSPastelUI - sprite
+  bounds: 588, 28, 14, 10
+  index: 801
+sprite/BONUSPastelUI - sprite
+  bounds: 602, 28, 14, 10
+  index: 802
+sprite/BONUSPastelUI - sprite
+  bounds: 844, 50, 10, 11
+  index: 803
+sprite/BONUSPastelUI - sprite
+  bounds: 854, 50, 10, 11
+  index: 804
+sprite/BONUSPastelUI - sprite
+  bounds: 616, 28, 14, 10
+  index: 805
+sprite/BONUSPastelUI - sprite
+  bounds: 630, 28, 14, 10
+  index: 806
+sprite/BONUSPastelUI - sprite
+  bounds: 644, 28, 14, 10
+  index: 807
+sprite/BONUSPastelUI - sprite
+  bounds: 64, 217, 16, 16
+  index: 808
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 217, 16, 16
+  index: 809
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 217, 16, 16
+  index: 810
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 217, 16, 16
+  index: 811
+sprite/BONUSPastelUI - sprite
+  bounds: 128, 217, 16, 16
+  index: 812
+sprite/BONUSPastelUI - sprite
+  bounds: 144, 217, 16, 16
+  index: 813
+sprite/BONUSPastelUI - sprite
+  bounds: 160, 217, 16, 16
+  index: 814
+sprite/BONUSPastelUI - sprite
+  bounds: 176, 217, 16, 16
+  index: 815
+sprite/BONUSPastelUI - sprite
+  bounds: 864, 50, 10, 11
+  index: 816
+sprite/BONUSPastelUI - sprite
+  bounds: 874, 50, 10, 11
+  index: 817
+sprite/BONUSPastelUI - sprite
+  bounds: 307, 109, 10, 14
+  index: 818
+sprite/BONUSPastelUI - sprite
+  bounds: 317, 109, 10, 14
+  index: 819
+sprite/BONUSPastelUI - sprite
+  bounds: 327, 109, 10, 14
+  index: 820
+sprite/BONUSPastelUI - sprite
+  bounds: 337, 109, 10, 14
+  index: 821
+sprite/BONUSPastelUI - sprite
+  bounds: 871, 139, 16, 15
+  index: 822
+sprite/BONUSPastelUI - sprite
+  bounds: 887, 139, 16, 15
+  index: 823
+sprite/BONUSPastelUI - sprite
+  bounds: 903, 139, 16, 15
+  index: 824
+sprite/BONUSPastelUI - sprite
+  bounds: 919, 139, 16, 15
+  index: 825
+sprite/BONUSPastelUI - sprite
+  bounds: 935, 139, 16, 15
+  index: 826
+sprite/BONUSPastelUI - sprite
+  bounds: 951, 139, 16, 15
+  index: 827
+sprite/BONUSPastelUI - sprite
+  bounds: 967, 139, 16, 15
+  index: 828
+sprite/BONUSPastelUI - sprite
+  bounds: 983, 139, 16, 15
+  index: 829
+sprite/BONUSPastelUI - sprite
+  bounds: 884, 50, 10, 11
+  index: 830
+sprite/BONUSPastelUI - sprite
+  bounds: 894, 50, 10, 11
+  index: 831
+sprite/BONUSPastelUI - sprite
+  bounds: 904, 50, 10, 11
+  index: 832
+sprite/BONUSPastelUI - sprite
+  bounds: 914, 50, 10, 11
+  index: 833
+sprite/BONUSPastelUI - sprite
+  bounds: 347, 109, 10, 14
+  index: 834
+sprite/BONUSPastelUI - sprite
+  bounds: 357, 109, 10, 14
+  index: 835
+sprite/BONUSPastelUI - sprite
+  bounds: 924, 50, 10, 11
+  index: 836
+sprite/BONUSPastelUI - sprite
+  bounds: 934, 50, 10, 11
+  index: 837
+sprite/BONUSPastelUI - sprite
+  bounds: 630, 268, 50, 18
+  index: 838
+sprite/BONUSPastelUI - sprite
+  bounds: 680, 268, 34, 18
+  index: 839
+sprite/BONUSPastelUI - sprite
+  bounds: 714, 268, 18, 18
+  index: 840
+sprite/BONUSPastelUI - sprite
+  bounds: 732, 268, 50, 18
+  index: 841
+sprite/BONUSPastelUI - sprite
+  bounds: 782, 268, 34, 18
+  index: 842
+sprite/BONUSPastelUI - sprite
+  bounds: 816, 268, 18, 18
+  index: 843
+sprite/BONUSPastelUI - sprite
+  bounds: 192, 217, 16, 16
+  index: 844
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 217, 16, 16
+  index: 845
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 217, 16, 16
+  index: 846
+sprite/BONUSPastelUI - sprite
+  bounds: 240, 217, 16, 16
+  index: 847
+sprite/BONUSPastelUI - sprite
+  bounds: 256, 217, 16, 16
+  index: 848
+sprite/BONUSPastelUI - sprite
+  bounds: 272, 217, 16, 16
+  index: 849
+sprite/BONUSPastelUI - sprite
+  bounds: 288, 217, 16, 16
+  index: 850
+sprite/BONUSPastelUI - sprite
+  bounds: 304, 217, 16, 16
+  index: 851
+sprite/BONUSPastelUI - sprite
+  bounds: 999, 139, 16, 15
+  index: 852
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 154, 16, 15
+  index: 853
+sprite/BONUSPastelUI - sprite
+  bounds: 16, 154, 16, 15
+  index: 854
+sprite/BONUSPastelUI - sprite
+  bounds: 32, 154, 16, 15
+  index: 855
+sprite/BONUSPastelUI - sprite
+  bounds: 48, 154, 16, 15
+  index: 856
+sprite/BONUSPastelUI - sprite
+  bounds: 64, 154, 16, 15
+  index: 857
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 154, 16, 15
+  index: 858
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 154, 16, 15
+  index: 859
+sprite/BONUSPastelUI - sprite
+  bounds: 944, 50, 10, 11
+  index: 860
+sprite/BONUSPastelUI - sprite
+  bounds: 954, 50, 10, 11
+  index: 861
+sprite/BONUSPastelUI - sprite
+  bounds: 964, 50, 10, 11
+  index: 862
+sprite/BONUSPastelUI - sprite
+  bounds: 974, 50, 10, 11
+  index: 863
+sprite/BONUSPastelUI - sprite
+  bounds: 984, 50, 10, 11
+  index: 864
+sprite/BONUSPastelUI - sprite
+  bounds: 994, 50, 10, 11
+  index: 865
+sprite/BONUSPastelUI - sprite
+  bounds: 1004, 50, 10, 11
+  index: 866
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 61, 10, 11
+  index: 867
+sprite/BONUSPastelUI - sprite
+  bounds: 625, 424, 90, 82
+  index: 868
+sprite/BONUSPastelUI - sprite
+  bounds: 715, 424, 90, 82
+  index: 869
+sprite/BONUSPastelUI - sprite
+  bounds: 805, 424, 90, 82
+  index: 870
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 217, 16, 16
+  index: 871
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 217, 16, 16
+  index: 872
+sprite/BONUSPastelUI - sprite
+  bounds: 352, 217, 16, 16
+  index: 873
+sprite/BONUSPastelUI - sprite
+  bounds: 368, 217, 16, 16
+  index: 874
+sprite/BONUSPastelUI - sprite
+  bounds: 384, 217, 16, 16
+  index: 875
+sprite/BONUSPastelUI - sprite
+  bounds: 400, 217, 16, 16
+  index: 876
+sprite/BONUSPastelUI - sprite
+  bounds: 416, 217, 16, 16
+  index: 877
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 217, 16, 16
+  index: 878
+sprite/BONUSPastelUI - sprite
+  bounds: 10, 61, 10, 11
+  index: 879
+sprite/BONUSPastelUI - sprite
+  bounds: 20, 61, 10, 11
+  index: 880
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 154, 16, 15
+  index: 881
+sprite/BONUSPastelUI - sprite
+  bounds: 128, 154, 16, 15
+  index: 882
+sprite/BONUSPastelUI - sprite
+  bounds: 144, 154, 16, 15
+  index: 883
+sprite/BONUSPastelUI - sprite
+  bounds: 160, 154, 16, 15
+  index: 884
+sprite/BONUSPastelUI - sprite
+  bounds: 176, 154, 16, 15
+  index: 885
+sprite/BONUSPastelUI - sprite
+  bounds: 192, 154, 16, 15
+  index: 886
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 154, 16, 15
+  index: 887
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 154, 16, 15
+  index: 888
+sprite/BONUSPastelUI - sprite
+  bounds: 30, 61, 10, 11
+  index: 889
+sprite/BONUSPastelUI - sprite
+  bounds: 40, 61, 10, 11
+  index: 890
+sprite/BONUSPastelUI - sprite
+  bounds: 50, 61, 10, 11
+  index: 891
+sprite/BONUSPastelUI - sprite
+  bounds: 60, 61, 10, 11
+  index: 892
+sprite/BONUSPastelUI - sprite
+  bounds: 70, 61, 10, 11
+  index: 893
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 61, 10, 11
+  index: 894
+sprite/BONUSPastelUI - sprite
+  bounds: 834, 268, 50, 18
+  index: 895
+sprite/BONUSPastelUI - sprite
+  bounds: 884, 268, 34, 18
+  index: 896
+sprite/BONUSPastelUI - sprite
+  bounds: 918, 268, 18, 18
+  index: 897
+sprite/BONUSPastelUI - sprite
+  bounds: 936, 268, 50, 18
+  index: 898
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 286, 34, 18
+  index: 899
+sprite/BONUSPastelUI - sprite
+  bounds: 34, 286, 18, 18
+  index: 900
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 217, 16, 16
+  index: 901
+sprite/BONUSPastelUI - sprite
+  bounds: 464, 217, 16, 16
+  index: 902
+sprite/BONUSPastelUI - sprite
+  bounds: 480, 217, 16, 16
+  index: 903
+sprite/BONUSPastelUI - sprite
+  bounds: 496, 217, 16, 16
+  index: 904
+sprite/BONUSPastelUI - sprite
+  bounds: 512, 217, 16, 16
+  index: 905
+sprite/BONUSPastelUI - sprite
+  bounds: 528, 217, 16, 16
+  index: 906
+sprite/BONUSPastelUI - sprite
+  bounds: 544, 217, 16, 16
+  index: 907
+sprite/BONUSPastelUI - sprite
+  bounds: 560, 217, 16, 16
+  index: 908
+sprite/BONUSPastelUI - sprite
+  bounds: 240, 154, 16, 15
+  index: 909
+sprite/BONUSPastelUI - sprite
+  bounds: 256, 154, 16, 15
+  index: 910
+sprite/BONUSPastelUI - sprite
+  bounds: 272, 154, 16, 15
+  index: 911
+sprite/BONUSPastelUI - sprite
+  bounds: 288, 154, 16, 15
+  index: 912
+sprite/BONUSPastelUI - sprite
+  bounds: 304, 154, 16, 15
+  index: 913
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 154, 16, 15
+  index: 914
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 154, 16, 15
+  index: 915
+sprite/BONUSPastelUI - sprite
+  bounds: 352, 154, 16, 15
+  index: 916
+sprite/BONUSPastelUI - sprite
+  bounds: 90, 61, 10, 11
+  index: 917
+sprite/BONUSPastelUI - sprite
+  bounds: 100, 61, 10, 11
+  index: 918
+sprite/BONUSPastelUI - sprite
+  bounds: 110, 61, 10, 11
+  index: 919
+sprite/BONUSPastelUI - sprite
+  bounds: 120, 61, 10, 11
+  index: 920
+sprite/BONUSPastelUI - sprite
+  bounds: 130, 61, 10, 11
+  index: 921
+sprite/BONUSPastelUI - sprite
+  bounds: 140, 61, 10, 11
+  index: 922
+sprite/BONUSPastelUI - sprite
+  bounds: 150, 61, 10, 11
+  index: 923
+sprite/BONUSPastelUI - sprite
+  bounds: 160, 61, 10, 11
+  index: 924
+sprite/BONUSPastelUI - sprite
+  bounds: 576, 217, 16, 16
+  index: 925
+sprite/BONUSPastelUI - sprite
+  bounds: 592, 217, 16, 16
+  index: 926
+sprite/BONUSPastelUI - sprite
+  bounds: 608, 217, 16, 16
+  index: 927
+sprite/BONUSPastelUI - sprite
+  bounds: 624, 217, 16, 16
+  index: 928
+sprite/BONUSPastelUI - sprite
+  bounds: 640, 217, 16, 16
+  index: 929
+sprite/BONUSPastelUI - sprite
+  bounds: 656, 217, 16, 16
+  index: 930
+sprite/BONUSPastelUI - sprite
+  bounds: 672, 217, 16, 16
+  index: 931
+sprite/BONUSPastelUI - sprite
+  bounds: 688, 217, 16, 16
+  index: 932
+sprite/BONUSPastelUI - sprite
+  bounds: 368, 154, 16, 15
+  index: 933
+sprite/BONUSPastelUI - sprite
+  bounds: 384, 154, 16, 15
+  index: 934
+sprite/BONUSPastelUI - sprite
+  bounds: 400, 154, 16, 15
+  index: 935
+sprite/BONUSPastelUI - sprite
+  bounds: 416, 154, 16, 15
+  index: 936
+sprite/BONUSPastelUI - sprite
+  bounds: 432, 154, 16, 15
+  index: 937
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 154, 16, 15
+  index: 938
+sprite/BONUSPastelUI - sprite
+  bounds: 464, 154, 16, 15
+  index: 939
+sprite/BONUSPastelUI - sprite
+  bounds: 480, 154, 16, 15
+  index: 940
+sprite/BONUSPastelUI - sprite
+  bounds: 170, 61, 10, 11
+  index: 941
+sprite/BONUSPastelUI - sprite
+  bounds: 180, 61, 10, 11
+  index: 942
+sprite/BONUSPastelUI - sprite
+  bounds: 496, 154, 32, 15
+  index: 943
+sprite/BONUSPastelUI - sprite
+  bounds: 190, 61, 10, 11
+  index: 944
+sprite/BONUSPastelUI - sprite
+  bounds: 200, 61, 10, 11
+  index: 945
+sprite/BONUSPastelUI - sprite
+  bounds: 210, 61, 10, 11
+  index: 946
+sprite/BONUSPastelUI - sprite
+  bounds: 220, 61, 10, 11
+  index: 947
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 96, 12, 12
+  index: 948
+sprite/BONUSPastelUI - sprite
+  bounds: 124, 96, 12, 12
+  index: 949
+sprite/BONUSPastelUI - sprite
+  bounds: 136, 96, 12, 12
+  index: 950
+sprite/BONUSPastelUI - sprite
+  bounds: 148, 96, 12, 12
+  index: 951
+sprite/BONUSPastelUI - sprite
+  bounds: 804, 96, 30, 13
+  index: 952
+sprite/BONUSPastelUI - sprite
+  bounds: 230, 61, 10, 11
+  index: 953
+sprite/BONUSPastelUI - sprite
+  bounds: 240, 61, 10, 11
+  index: 954
+sprite/BONUSPastelUI - sprite
+  bounds: 52, 286, 18, 18
+  index: 955
+sprite/BONUSPastelUI - sprite
+  bounds: 70, 286, 18, 18
+  index: 956
+sprite/BONUSPastelUI - sprite
+  bounds: 88, 286, 18, 18
+  index: 957
+sprite/BONUSPastelUI - sprite
+  bounds: 704, 217, 16, 16
+  index: 958
+sprite/BONUSPastelUI - sprite
+  bounds: 720, 217, 16, 16
+  index: 959
+sprite/BONUSPastelUI - sprite
+  bounds: 736, 217, 16, 16
+  index: 960
+sprite/BONUSPastelUI - sprite
+  bounds: 752, 217, 16, 16
+  index: 961
+sprite/BONUSPastelUI - sprite
+  bounds: 768, 217, 16, 16
+  index: 962
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 217, 16, 16
+  index: 963
+sprite/BONUSPastelUI - sprite
+  bounds: 800, 217, 16, 16
+  index: 964
+sprite/BONUSPastelUI - sprite
+  bounds: 816, 217, 16, 16
+  index: 965
+sprite/BONUSPastelUI - sprite
+  bounds: 528, 154, 32, 15
+  index: 966
+sprite/BONUSPastelUI - sprite
+  bounds: 560, 154, 32, 15
+  index: 967
+sprite/BONUSPastelUI - sprite
+  bounds: 592, 154, 16, 15
+  index: 968
+sprite/BONUSPastelUI - sprite
+  bounds: 608, 154, 16, 15
+  index: 969
+sprite/BONUSPastelUI - sprite
+  bounds: 624, 154, 16, 15
+  index: 970
+sprite/BONUSPastelUI - sprite
+  bounds: 640, 154, 16, 15
+  index: 971
+sprite/BONUSPastelUI - sprite
+  bounds: 656, 154, 16, 15
+  index: 972
+sprite/BONUSPastelUI - sprite
+  bounds: 672, 154, 16, 15
+  index: 973
+sprite/BONUSPastelUI - sprite
+  bounds: 688, 154, 16, 15
+  index: 974
+sprite/BONUSPastelUI - sprite
+  bounds: 704, 154, 16, 15
+  index: 975
+sprite/BONUSPastelUI - sprite
+  bounds: 250, 61, 10, 11
+  index: 976
+sprite/BONUSPastelUI - sprite
+  bounds: 260, 61, 10, 11
+  index: 977
+sprite/BONUSPastelUI - sprite
+  bounds: 160, 96, 12, 12
+  index: 978
+sprite/BONUSPastelUI - sprite
+  bounds: 172, 96, 12, 12
+  index: 979
+sprite/BONUSPastelUI - sprite
+  bounds: 184, 96, 12, 12
+  index: 980
+sprite/BONUSPastelUI - sprite
+  bounds: 196, 96, 12, 12
+  index: 981
+sprite/BONUSPastelUI - sprite
+  bounds: 270, 61, 10, 11
+  index: 982
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 61, 10, 11
+  index: 983
+sprite/BONUSPastelUI - sprite
+  bounds: 290, 61, 10, 11
+  index: 984
+sprite/BONUSPastelUI - sprite
+  bounds: 300, 61, 10, 11
+  index: 985
+sprite/BONUSPastelUI - sprite
+  bounds: 310, 61, 10, 11
+  index: 986
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 61, 10, 11
+  index: 987
+sprite/BONUSPastelUI - sprite
+  bounds: 832, 217, 16, 16
+  index: 988
+sprite/BONUSPastelUI - sprite
+  bounds: 848, 217, 16, 16
+  index: 989
+sprite/BONUSPastelUI - sprite
+  bounds: 864, 217, 16, 16
+  index: 990
+sprite/BONUSPastelUI - sprite
+  bounds: 880, 217, 16, 16
+  index: 991
+sprite/BONUSPastelUI - sprite
+  bounds: 896, 217, 16, 16
+  index: 992
+sprite/BONUSPastelUI - sprite
+  bounds: 912, 217, 16, 16
+  index: 993
+sprite/BONUSPastelUI - sprite
+  bounds: 928, 217, 16, 16
+  index: 994
+sprite/BONUSPastelUI - sprite
+  bounds: 944, 217, 16, 16
+  index: 995
+sprite/BONUSPastelUI - sprite
+  bounds: 720, 154, 16, 15
+  index: 996
+sprite/BONUSPastelUI - sprite
+  bounds: 736, 154, 16, 15
+  index: 997
+sprite/BONUSPastelUI - sprite
+  bounds: 752, 154, 16, 15
+  index: 998
+sprite/BONUSPastelUI - sprite
+  bounds: 768, 154, 16, 15
+  index: 999
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 154, 16, 15
+  index: 1000
+sprite/BONUSPastelUI - sprite
+  bounds: 800, 154, 16, 15
+  index: 1001
+sprite/BONUSPastelUI - sprite
+  bounds: 816, 154, 16, 15
+  index: 1002
+sprite/BONUSPastelUI - sprite
+  bounds: 832, 154, 16, 15
+  index: 1003
+sprite/BONUSPastelUI - sprite
+  bounds: 330, 61, 10, 11
+  index: 1004
+sprite/BONUSPastelUI - sprite
+  bounds: 340, 61, 10, 11
+  index: 1005
+sprite/BONUSPastelUI - sprite
+  bounds: 848, 154, 32, 15
+  index: 1006
+sprite/BONUSPastelUI - sprite
+  bounds: 350, 61, 10, 11
+  index: 1007
+sprite/BONUSPastelUI - sprite
+  bounds: 360, 61, 10, 11
+  index: 1008
+sprite/BONUSPastelUI - sprite
+  bounds: 370, 61, 10, 11
+  index: 1009
+sprite/BONUSPastelUI - sprite
+  bounds: 380, 61, 10, 11
+  index: 1010
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 96, 12, 12
+  index: 1011
+sprite/BONUSPastelUI - sprite
+  bounds: 220, 96, 12, 12
+  index: 1012
+sprite/BONUSPastelUI - sprite
+  bounds: 232, 96, 12, 12
+  index: 1013
+sprite/BONUSPastelUI - sprite
+  bounds: 244, 96, 12, 12
+  index: 1014
+sprite/BONUSPastelUI - sprite
+  bounds: 834, 96, 30, 13
+  index: 1015
+sprite/BONUSPastelUI - sprite
+  bounds: 390, 61, 10, 11
+  index: 1016
+sprite/BONUSPastelUI - sprite
+  bounds: 400, 61, 10, 11
+  index: 1017
+sprite/BONUSPastelUI - sprite
+  bounds: 106, 286, 18, 18
+  index: 1018
+sprite/BONUSPastelUI - sprite
+  bounds: 124, 286, 18, 18
+  index: 1019
+sprite/BONUSPastelUI - sprite
+  bounds: 142, 286, 18, 18
+  index: 1020
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 0, 33, 3
+  index: 1021
+sprite/BONUSPastelUI - sprite
+  bounds: 960, 217, 16, 16
+  index: 1022
+sprite/BONUSPastelUI - sprite
+  bounds: 976, 217, 16, 16
+  index: 1023
+sprite/BONUSPastelUI - sprite
+  bounds: 992, 217, 16, 16
+  index: 1024
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 233, 16, 16
+  index: 1025
+sprite/BONUSPastelUI - sprite
+  bounds: 16, 233, 16, 16
+  index: 1026
+sprite/BONUSPastelUI - sprite
+  bounds: 32, 233, 16, 16
+  index: 1027
+sprite/BONUSPastelUI - sprite
+  bounds: 48, 233, 16, 16
+  index: 1028
+sprite/BONUSPastelUI - sprite
+  bounds: 64, 233, 16, 16
+  index: 1029
+sprite/BONUSPastelUI - sprite
+  bounds: 880, 154, 32, 15
+  index: 1030
+sprite/BONUSPastelUI - sprite
+  bounds: 912, 154, 32, 15
+  index: 1031
+sprite/BONUSPastelUI - sprite
+  bounds: 944, 154, 16, 15
+  index: 1032
+sprite/BONUSPastelUI - sprite
+  bounds: 960, 154, 16, 15
+  index: 1033
+sprite/BONUSPastelUI - sprite
+  bounds: 976, 154, 16, 15
+  index: 1034
+sprite/BONUSPastelUI - sprite
+  bounds: 992, 154, 16, 15
+  index: 1035
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 169, 16, 15
+  index: 1036
+sprite/BONUSPastelUI - sprite
+  bounds: 16, 169, 16, 15
+  index: 1037
+sprite/BONUSPastelUI - sprite
+  bounds: 32, 169, 16, 15
+  index: 1038
+sprite/BONUSPastelUI - sprite
+  bounds: 48, 169, 16, 15
+  index: 1039
+sprite/BONUSPastelUI - sprite
+  bounds: 410, 61, 10, 11
+  index: 1040
+sprite/BONUSPastelUI - sprite
+  bounds: 420, 61, 10, 11
+  index: 1041
+sprite/BONUSPastelUI - sprite
+  bounds: 256, 96, 12, 12
+  index: 1042
+sprite/BONUSPastelUI - sprite
+  bounds: 268, 96, 12, 12
+  index: 1043
+sprite/BONUSPastelUI - sprite
+  bounds: 280, 96, 12, 12
+  index: 1044
+sprite/BONUSPastelUI - sprite
+  bounds: 292, 96, 12, 12
+  index: 1045
+sprite/BONUSPastelUI - sprite
+  bounds: 430, 61, 10, 11
+  index: 1046
+sprite/BONUSPastelUI - sprite
+  bounds: 440, 61, 10, 11
+  index: 1047
+sprite/BONUSPastelUI - sprite
+  bounds: 450, 61, 10, 11
+  index: 1048
+sprite/BONUSPastelUI - sprite
+  bounds: 460, 61, 10, 11
+  index: 1049
+sprite/BONUSPastelUI - sprite
+  bounds: 470, 61, 10, 11
+  index: 1050
+sprite/BONUSPastelUI - sprite
+  bounds: 480, 61, 10, 11
+  index: 1051
+sprite/BONUSPastelUI - sprite
+  bounds: 493, 506, 90, 117
+  index: 1052
+sprite/BONUSPastelUI - sprite
+  bounds: 583, 506, 90, 117
+  index: 1053
+sprite/BONUSPastelUI - sprite
+  bounds: 673, 506, 90, 117
+  index: 1054
+sprite/BONUSPastelUI - sprite
+  bounds: 763, 506, 90, 117
+  index: 1055
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 233, 16, 16
+  index: 1056
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 233, 16, 16
+  index: 1057
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 233, 16, 16
+  index: 1058
+sprite/BONUSPastelUI - sprite
+  bounds: 128, 233, 16, 16
+  index: 1059
+sprite/BONUSPastelUI - sprite
+  bounds: 144, 233, 16, 16
+  index: 1060
+sprite/BONUSPastelUI - sprite
+  bounds: 160, 233, 16, 16
+  index: 1061
+sprite/BONUSPastelUI - sprite
+  bounds: 176, 233, 16, 16
+  index: 1062
+sprite/BONUSPastelUI - sprite
+  bounds: 192, 233, 16, 16
+  index: 1063
+sprite/BONUSPastelUI - sprite
+  bounds: 64, 169, 16, 15
+  index: 1064
+sprite/BONUSPastelUI - sprite
+  bounds: 80, 169, 16, 15
+  index: 1065
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 169, 16, 15
+  index: 1066
+sprite/BONUSPastelUI - sprite
+  bounds: 112, 169, 16, 15
+  index: 1067
+sprite/BONUSPastelUI - sprite
+  bounds: 128, 169, 16, 15
+  index: 1068
+sprite/BONUSPastelUI - sprite
+  bounds: 144, 169, 16, 15
+  index: 1069
+sprite/BONUSPastelUI - sprite
+  bounds: 160, 169, 16, 15
+  index: 1070
+sprite/BONUSPastelUI - sprite
+  bounds: 176, 169, 16, 15
+  index: 1071
+sprite/BONUSPastelUI - sprite
+  bounds: 490, 61, 10, 11
+  index: 1072
+sprite/BONUSPastelUI - sprite
+  bounds: 500, 61, 10, 11
+  index: 1073
+sprite/BONUSPastelUI - sprite
+  bounds: 192, 169, 32, 15
+  index: 1074
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 169, 32, 15
+  index: 1075
+sprite/BONUSPastelUI - sprite
+  bounds: 510, 61, 10, 11
+  index: 1076
+sprite/BONUSPastelUI - sprite
+  bounds: 520, 61, 10, 11
+  index: 1077
+sprite/BONUSPastelUI - sprite
+  bounds: 530, 61, 10, 11
+  index: 1078
+sprite/BONUSPastelUI - sprite
+  bounds: 540, 61, 10, 11
+  index: 1079
+sprite/BONUSPastelUI - sprite
+  bounds: 864, 96, 30, 13
+  index: 1080
+sprite/BONUSPastelUI - sprite
+  bounds: 894, 96, 30, 13
+  index: 1081
+sprite/BONUSPastelUI - sprite
+  bounds: 550, 61, 10, 11
+  index: 1082
+sprite/BONUSPastelUI - sprite
+  bounds: 560, 61, 10, 11
+  index: 1083
+sprite/BONUSPastelUI - sprite
+  bounds: 160, 286, 18, 18
+  index: 1084
+sprite/BONUSPastelUI - sprite
+  bounds: 178, 286, 18, 18
+  index: 1085
+sprite/BONUSPastelUI - sprite
+  bounds: 196, 286, 18, 18
+  index: 1086
+sprite/BONUSPastelUI - sprite
+  bounds: 256, 169, 32, 15
+  index: 1087
+sprite/BONUSPastelUI - sprite
+  bounds: 288, 169, 32, 15
+  index: 1088
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 169, 32, 15
+  index: 1089
+sprite/BONUSPastelUI - sprite
+  bounds: 352, 169, 32, 15
+  index: 1090
+sprite/BONUSPastelUI - sprite
+  bounds: 304, 96, 10, 12
+  index: 1091
+sprite/BONUSPastelUI - sprite
+  bounds: 924, 96, 11, 13
+  index: 1092
+sprite/BONUSPastelUI - sprite
+  bounds: 314, 96, 10, 12
+  index: 1093
+sprite/BONUSPastelUI - sprite
+  bounds: 935, 96, 11, 13
+  index: 1094
+sprite/BONUSPastelUI - sprite
+  bounds: 570, 61, 10, 11
+  index: 1095
+sprite/BONUSPastelUI - sprite
+  bounds: 580, 61, 10, 11
+  index: 1096
+sprite/BONUSPastelUI - sprite
+  bounds: 590, 61, 11, 11
+  index: 1097
+sprite/BONUSPastelUI - sprite
+  bounds: 601, 61, 11, 11
+  index: 1098
+sprite/BONUSPastelUI - sprite
+  bounds: 213, 0, 8, 7
+  index: 1099
+sprite/BONUSPastelUI - sprite
+  bounds: 612, 61, 9, 11
+  index: 1100
+sprite/BONUSPastelUI - sprite
+  bounds: 221, 0, 8, 7
+  index: 1101
+sprite/BONUSPastelUI - sprite
+  bounds: 621, 61, 9, 11
+  index: 1102
+sprite/BONUSPastelUI - sprite
+  bounds: 630, 61, 10, 11
+  index: 1103
+sprite/BONUSPastelUI - sprite
+  bounds: 640, 61, 10, 11
+  index: 1104
+sprite/BONUSPastelUI - sprite
+  bounds: 650, 61, 10, 11
+  index: 1105
+sprite/BONUSPastelUI - sprite
+  bounds: 660, 61, 10, 11
+  index: 1106
+sprite/BONUSPastelUI - sprite
+  bounds: 383, 0, 11, 9
+  index: 1107
+sprite/BONUSPastelUI - sprite
+  bounds: 394, 0, 11, 9
+  index: 1108
+sprite/BONUSPastelUI - sprite
+  bounds: 405, 0, 9, 9
+  index: 1109
+sprite/BONUSPastelUI - sprite
+  bounds: 414, 0, 9, 9
+  index: 1110
+sprite/BONUSPastelUI - sprite
+  bounds: 670, 61, 10, 11
+  index: 1111
+sprite/BONUSPastelUI - sprite
+  bounds: 680, 61, 10, 11
+  index: 1112
+sprite/BONUSPastelUI - sprite
+  bounds: 229, 0, 9, 7
+  index: 1113
+sprite/BONUSPastelUI - sprite
+  bounds: 238, 0, 9, 7
+  index: 1114
+sprite/BONUSPastelUI - sprite
+  bounds: 367, 109, 15, 14
+  index: 1117
+sprite/BONUSPastelUI - sprite
+  bounds: 382, 109, 15, 14
+  index: 1118
+sprite/BONUSPastelUI - sprite
+  bounds: 690, 61, 10, 11
+  index: 1119
+sprite/BONUSPastelUI - sprite
+  bounds: 700, 61, 10, 11
+  index: 1120
+sprite/BONUSPastelUI - sprite
+  bounds: 384, 169, 32, 15
+  index: 1121
+sprite/BONUSPastelUI - sprite
+  bounds: 416, 169, 32, 15
+  index: 1122
+sprite/BONUSPastelUI - sprite
+  bounds: 324, 96, 11, 12
+  index: 1123
+sprite/BONUSPastelUI - sprite
+  bounds: 335, 96, 11, 12
+  index: 1124
+sprite/BONUSPastelUI - sprite
+  bounds: 346, 96, 8, 12
+  index: 1125
+sprite/BONUSPastelUI - sprite
+  bounds: 354, 96, 8, 12
+  index: 1127
+sprite/BONUSPastelUI - sprite
+  bounds: 710, 61, 10, 11
+  index: 1129
+sprite/BONUSPastelUI - sprite
+  bounds: 720, 61, 10, 11
+  index: 1130
+sprite/BONUSPastelUI - sprite
+  bounds: 730, 61, 10, 11
+  index: 1131
+sprite/BONUSPastelUI - sprite
+  bounds: 740, 61, 10, 11
+  index: 1132
+sprite/BONUSPastelUI - sprite
+  bounds: 946, 96, 30, 13
+  index: 1133
+sprite/BONUSPastelUI - sprite
+  bounds: 976, 96, 30, 13
+  index: 1134
+sprite/BONUSPastelUI - sprite
+  bounds: 750, 61, 12, 11
+  index: 1135
+sprite/BONUSPastelUI - sprite
+  bounds: 762, 61, 10, 11
+  index: 1136
+sprite/BONUSPastelUI - sprite
+  bounds: 772, 61, 12, 11
+  index: 1137
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 61, 10, 11
+  index: 1138
+sprite/BONUSPastelUI - sprite
+  bounds: 658, 28, 9, 10
+  index: 1139
+sprite/BONUSPastelUI - sprite
+  bounds: 667, 28, 9, 10
+  index: 1140
+sprite/BONUSPastelUI - sprite
+  bounds: 794, 61, 10, 11
+  index: 1141
+sprite/BONUSPastelUI - sprite
+  bounds: 804, 61, 10, 11
+  index: 1142
+sprite/BONUSPastelUI - sprite
+  bounds: 423, 0, 10, 9
+  index: 1143
+sprite/BONUSPastelUI - sprite
+  bounds: 433, 0, 4, 9
+  index: 1145
+sprite/BONUSPastelUI - sprite
+  bounds: 437, 0, 4, 9
+  index: 1146
+sprite/BONUSPastelUI - sprite
+  bounds: 441, 0, 10, 9
+  index: 1147
+sprite/BONUSPastelUI - sprite
+  bounds: 451, 0, 4, 9
+  index: 1149
+sprite/BONUSPastelUI - sprite
+  bounds: 455, 0, 4, 9
+  index: 1150
+sprite/BONUSPastelUI - sprite
+  bounds: 214, 286, 18, 18
+  index: 1151
+sprite/BONUSPastelUI - sprite
+  bounds: 232, 286, 18, 18
+  index: 1152
+sprite/BONUSPastelUI - sprite
+  bounds: 250, 286, 18, 18
+  index: 1153
+sprite/BONUSPastelUI - sprite
+  bounds: 208, 233, 16, 16
+  index: 1154
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 233, 16, 16
+  index: 1155
+sprite/BONUSPastelUI - sprite
+  bounds: 448, 169, 32, 15
+  index: 1156
+sprite/BONUSPastelUI - sprite
+  bounds: 480, 169, 32, 15
+  index: 1157
+sprite/BONUSPastelUI - sprite
+  bounds: 512, 169, 32, 15
+  index: 1158
+sprite/BONUSPastelUI - sprite
+  bounds: 544, 169, 32, 15
+  index: 1159
+sprite/BONUSPastelUI - sprite
+  bounds: 397, 109, 14, 14
+  index: 1160
+sprite/BONUSPastelUI - sprite
+  bounds: 411, 109, 14, 14
+  index: 1161
+sprite/BONUSPastelUI - sprite
+  bounds: 425, 109, 15, 14
+  index: 1162
+sprite/BONUSPastelUI - sprite
+  bounds: 362, 96, 8, 12
+  index: 1163
+sprite/BONUSPastelUI - sprite
+  bounds: 440, 109, 15, 14
+  index: 1164
+sprite/BONUSPastelUI - sprite
+  bounds: 370, 96, 8, 12
+  index: 1165
+sprite/BONUSPastelUI - sprite
+  bounds: 814, 61, 10, 11
+  index: 1166
+sprite/BONUSPastelUI - sprite
+  bounds: 824, 61, 10, 11
+  index: 1167
+sprite/BONUSPastelUI - sprite
+  bounds: 834, 61, 10, 11
+  index: 1168
+sprite/BONUSPastelUI - sprite
+  bounds: 844, 61, 10, 11
+  index: 1169
+sprite/BONUSPastelUI - sprite
+  bounds: 378, 96, 13, 12
+  index: 1170
+sprite/BONUSPastelUI - sprite
+  bounds: 676, 28, 6, 10
+  index: 1171
+sprite/BONUSPastelUI - sprite
+  bounds: 391, 96, 13, 12
+  index: 1172
+sprite/BONUSPastelUI - sprite
+  bounds: 682, 28, 6, 10
+  index: 1173
+sprite/BONUSPastelUI - sprite
+  bounds: 854, 61, 10, 11
+  index: 1174
+sprite/BONUSPastelUI - sprite
+  bounds: 864, 61, 10, 11
+  index: 1175
+sprite/BONUSPastelUI - sprite
+  bounds: 874, 61, 10, 11
+  index: 1176
+sprite/BONUSPastelUI - sprite
+  bounds: 884, 61, 10, 11
+  index: 1177
+sprite/BONUSPastelUI - sprite
+  bounds: 113, 0, 10, 6
+  index: 1178
+sprite/BONUSPastelUI - sprite
+  bounds: 123, 0, 10, 6
+  index: 1179
+sprite/BONUSPastelUI - sprite
+  bounds: 33, 0, 8, 4
+  index: 1180
+sprite/BONUSPastelUI - sprite
+  bounds: 41, 0, 8, 4
+  index: 1181
+sprite/BONUSPastelUI - sprite
+  bounds: 404, 96, 10, 12
+  index: 1182
+sprite/BONUSPastelUI - sprite
+  bounds: 1006, 96, 11, 13
+  index: 1183
+sprite/BONUSPastelUI - sprite
+  bounds: 414, 96, 10, 12
+  index: 1184
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 109, 11, 13
+  index: 1185
+sprite/BONUSPastelUI - sprite
+  bounds: 894, 61, 10, 11
+  index: 1186
+sprite/BONUSPastelUI - sprite
+  bounds: 904, 61, 10, 11
+  index: 1187
+sprite/BONUSPastelUI - sprite
+  bounds: 914, 61, 10, 11
+  index: 1188
+sprite/BONUSPastelUI - sprite
+  bounds: 924, 61, 10, 11
+  index: 1189
+sprite/BONUSPastelUI - sprite
+  bounds: 576, 169, 32, 15
+  index: 1190
+sprite/BONUSPastelUI - sprite
+  bounds: 608, 169, 32, 15
+  index: 1191
+sprite/BONUSPastelUI - sprite
+  bounds: 934, 61, 11, 11
+  index: 1192
+sprite/BONUSPastelUI - sprite
+  bounds: 945, 61, 11, 11
+  index: 1193
+sprite/BONUSPastelUI - sprite
+  bounds: 247, 0, 8, 7
+  index: 1194
+sprite/BONUSPastelUI - sprite
+  bounds: 956, 61, 9, 11
+  index: 1195
+sprite/BONUSPastelUI - sprite
+  bounds: 255, 0, 8, 7
+  index: 1196
+sprite/BONUSPastelUI - sprite
+  bounds: 965, 61, 9, 11
+  index: 1197
+sprite/BONUSPastelUI - sprite
+  bounds: 974, 61, 10, 11
+  index: 1198
+sprite/BONUSPastelUI - sprite
+  bounds: 984, 61, 10, 11
+  index: 1199
+sprite/BONUSPastelUI - sprite
+  bounds: 994, 61, 10, 11
+  index: 1200
+sprite/BONUSPastelUI - sprite
+  bounds: 1004, 61, 10, 11
+  index: 1201
+sprite/BONUSPastelUI - sprite
+  bounds: 11, 109, 30, 13
+  index: 1202
+sprite/BONUSPastelUI - sprite
+  bounds: 41, 109, 30, 13
+  index: 1203
+sprite/BONUSPastelUI - sprite
+  bounds: 459, 0, 11, 9
+  index: 1204
+sprite/BONUSPastelUI - sprite
+  bounds: 470, 0, 11, 9
+  index: 1205
+sprite/BONUSPastelUI - sprite
+  bounds: 481, 0, 9, 9
+  index: 1206
+sprite/BONUSPastelUI - sprite
+  bounds: 490, 0, 9, 9
+  index: 1207
+sprite/BONUSPastelUI - sprite
+  bounds: 263, 0, 9, 7
+  index: 1208
+sprite/BONUSPastelUI - sprite
+  bounds: 272, 0, 9, 7
+  index: 1209
+sprite/BONUSPastelUI - sprite
+  bounds: 455, 109, 15, 14
+  index: 1212
+sprite/BONUSPastelUI - sprite
+  bounds: 470, 109, 15, 14
+  index: 1213
+sprite/BONUSPastelUI - sprite
+  bounds: 640, 169, 32, 15
+  index: 1214
+sprite/BONUSPastelUI - sprite
+  bounds: 672, 169, 32, 15
+  index: 1215
+sprite/BONUSPastelUI - sprite
+  bounds: 704, 169, 32, 15
+  index: 1216
+sprite/BONUSPastelUI - sprite
+  bounds: 736, 169, 32, 15
+  index: 1217
+sprite/BONUSPastelUI - sprite
+  bounds: 424, 96, 11, 12
+  index: 1218
+sprite/BONUSPastelUI - sprite
+  bounds: 435, 96, 11, 12
+  index: 1219
+sprite/BONUSPastelUI - sprite
+  bounds: 446, 96, 8, 12
+  index: 1220
+sprite/BONUSPastelUI - sprite
+  bounds: 454, 96, 8, 12
+  index: 1222
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 72, 12, 11
+  index: 1224
+sprite/BONUSPastelUI - sprite
+  bounds: 12, 72, 10, 11
+  index: 1225
+sprite/BONUSPastelUI - sprite
+  bounds: 22, 72, 12, 11
+  index: 1226
+sprite/BONUSPastelUI - sprite
+  bounds: 34, 72, 10, 11
+  index: 1227
+sprite/BONUSPastelUI - sprite
+  bounds: 688, 28, 9, 10
+  index: 1228
+sprite/BONUSPastelUI - sprite
+  bounds: 697, 28, 9, 10
+  index: 1229
+sprite/BONUSPastelUI - sprite
+  bounds: 44, 72, 10, 11
+  index: 1230
+sprite/BONUSPastelUI - sprite
+  bounds: 54, 72, 10, 11
+  index: 1231
+sprite/BONUSPastelUI - sprite
+  bounds: 64, 72, 10, 11
+  index: 1232
+sprite/BONUSPastelUI - sprite
+  bounds: 74, 72, 10, 11
+  index: 1233
+sprite/BONUSPastelUI - sprite
+  bounds: 499, 0, 10, 9
+  index: 1234
+sprite/BONUSPastelUI - sprite
+  bounds: 509, 0, 4, 9
+  index: 1236
+sprite/BONUSPastelUI - sprite
+  bounds: 513, 0, 4, 9
+  index: 1237
+sprite/BONUSPastelUI - sprite
+  bounds: 517, 0, 10, 9
+  index: 1238
+sprite/BONUSPastelUI - sprite
+  bounds: 527, 0, 4, 9
+  index: 1240
+sprite/BONUSPastelUI - sprite
+  bounds: 531, 0, 4, 9
+  index: 1241
+sprite/BONUSPastelUI - sprite
+  bounds: 84, 72, 10, 11
+  index: 1242
+sprite/BONUSPastelUI - sprite
+  bounds: 94, 72, 10, 11
+  index: 1243
+sprite/BONUSPastelUI - sprite
+  bounds: 104, 72, 10, 11
+  index: 1244
+sprite/BONUSPastelUI - sprite
+  bounds: 114, 72, 10, 11
+  index: 1245
+sprite/BONUSPastelUI - sprite
+  bounds: 240, 233, 16, 16
+  index: 1246
+sprite/BONUSPastelUI - sprite
+  bounds: 256, 233, 16, 16
+  index: 1247
+sprite/BONUSPastelUI - sprite
+  bounds: 485, 109, 14, 14
+  index: 1248
+sprite/BONUSPastelUI - sprite
+  bounds: 499, 109, 14, 14
+  index: 1249
+sprite/BONUSPastelUI - sprite
+  bounds: 513, 109, 15, 14
+  index: 1250
+sprite/BONUSPastelUI - sprite
+  bounds: 462, 96, 8, 12
+  index: 1251
+sprite/BONUSPastelUI - sprite
+  bounds: 528, 109, 15, 14
+  index: 1252
+sprite/BONUSPastelUI - sprite
+  bounds: 470, 96, 8, 12
+  index: 1253
+sprite/BONUSPastelUI - sprite
+  bounds: 124, 72, 10, 11
+  index: 1254
+sprite/BONUSPastelUI - sprite
+  bounds: 134, 72, 10, 11
+  index: 1255
+sprite/BONUSPastelUI - sprite
+  bounds: 144, 72, 10, 11
+  index: 1256
+sprite/BONUSPastelUI - sprite
+  bounds: 154, 72, 10, 11
+  index: 1257
+sprite/BONUSPastelUI - sprite
+  bounds: 478, 96, 13, 12
+  index: 1258
+sprite/BONUSPastelUI - sprite
+  bounds: 706, 28, 6, 10
+  index: 1259
+sprite/BONUSPastelUI - sprite
+  bounds: 491, 96, 13, 12
+  index: 1260
+sprite/BONUSPastelUI - sprite
+  bounds: 712, 28, 6, 10
+  index: 1261
+sprite/BONUSPastelUI - sprite
+  bounds: 164, 72, 10, 11
+  index: 1262
+sprite/BONUSPastelUI - sprite
+  bounds: 174, 72, 10, 11
+  index: 1263
+sprite/BONUSPastelUI - sprite
+  bounds: 184, 72, 10, 11
+  index: 1264
+sprite/BONUSPastelUI - sprite
+  bounds: 194, 72, 10, 11
+  index: 1265
+sprite/BONUSPastelUI - sprite
+  bounds: 133, 0, 10, 6
+  index: 1266
+sprite/BONUSPastelUI - sprite
+  bounds: 143, 0, 10, 6
+  index: 1267
+sprite/BONUSPastelUI - sprite
+  bounds: 49, 0, 8, 4
+  index: 1268
+sprite/BONUSPastelUI - sprite
+  bounds: 57, 0, 8, 4
+  index: 1269
+sprite/BONUSPastelUI - sprite
+  bounds: 49, 506, 89, 83
+  index: 1270
+sprite/BONUSPastelUI - sprite
+  bounds: 138, 506, 59, 83
+  index: 1271
+sprite/BONUSPastelUI - sprite
+  bounds: 895, 424, 49, 82
+  index: 1272
+sprite/BONUSPastelUI - sprite
+  bounds: 504, 96, 10, 12
+  index: 1273
+sprite/BONUSPastelUI - sprite
+  bounds: 71, 109, 11, 13
+  index: 1274
+sprite/BONUSPastelUI - sprite
+  bounds: 514, 96, 10, 12
+  index: 1275
+sprite/BONUSPastelUI - sprite
+  bounds: 82, 109, 11, 13
+  index: 1276
+sprite/BONUSPastelUI - sprite
+  bounds: 268, 286, 50, 26
+  index: 1277
+sprite/BONUSPastelUI - sprite
+  bounds: 318, 286, 50, 26
+  index: 1278
+sprite/BONUSPastelUI - sprite
+  bounds: 204, 72, 11, 11
+  index: 1279
+sprite/BONUSPastelUI - sprite
+  bounds: 215, 72, 11, 11
+  index: 1280
+sprite/BONUSPastelUI - sprite
+  bounds: 281, 0, 8, 7
+  index: 1281
+sprite/BONUSPastelUI - sprite
+  bounds: 226, 72, 9, 11
+  index: 1282
+sprite/BONUSPastelUI - sprite
+  bounds: 289, 0, 8, 7
+  index: 1283
+sprite/BONUSPastelUI - sprite
+  bounds: 235, 72, 9, 11
+  index: 1284
+sprite/BONUSPastelUI - sprite
+  bounds: 535, 0, 11, 9
+  index: 1285
+sprite/BONUSPastelUI - sprite
+  bounds: 546, 0, 11, 9
+  index: 1286
+sprite/BONUSPastelUI - sprite
+  bounds: 557, 0, 9, 9
+  index: 1287
+sprite/BONUSPastelUI - sprite
+  bounds: 566, 0, 9, 9
+  index: 1288
+sprite/BONUSPastelUI - sprite
+  bounds: 297, 0, 9, 7
+  index: 1289
+sprite/BONUSPastelUI - sprite
+  bounds: 306, 0, 9, 7
+  index: 1290
+sprite/BONUSPastelUI - sprite
+  bounds: 853, 506, 90, 117
+  index: 1293
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 623, 90, 117
+  index: 1294
+sprite/BONUSPastelUI - sprite
+  bounds: 90, 623, 90, 117
+  index: 1295
+sprite/BONUSPastelUI - sprite
+  bounds: 180, 623, 90, 117
+  index: 1296
+sprite/BONUSPastelUI - sprite
+  bounds: 543, 109, 15, 14
+  index: 1297
+sprite/BONUSPastelUI - sprite
+  bounds: 558, 109, 15, 14
+  index: 1298
+sprite/BONUSPastelUI - sprite
+  bounds: 524, 96, 11, 12
+  index: 1299
+sprite/BONUSPastelUI - sprite
+  bounds: 535, 96, 11, 12
+  index: 1300
+sprite/BONUSPastelUI - sprite
+  bounds: 546, 96, 8, 12
+  index: 1301
+sprite/BONUSPastelUI - sprite
+  bounds: 554, 96, 8, 12
+  index: 1303
+sprite/BONUSPastelUI - sprite
+  bounds: 244, 72, 12, 11
+  index: 1305
+sprite/BONUSPastelUI - sprite
+  bounds: 256, 72, 10, 11
+  index: 1306
+sprite/BONUSPastelUI - sprite
+  bounds: 266, 72, 12, 11
+  index: 1307
+sprite/BONUSPastelUI - sprite
+  bounds: 278, 72, 10, 11
+  index: 1308
+sprite/BONUSPastelUI - sprite
+  bounds: 718, 28, 9, 10
+  index: 1309
+sprite/BONUSPastelUI - sprite
+  bounds: 727, 28, 9, 10
+  index: 1310
+sprite/BONUSPastelUI - sprite
+  bounds: 575, 0, 10, 9
+  index: 1311
+sprite/BONUSPastelUI - sprite
+  bounds: 585, 0, 4, 9
+  index: 1313
+sprite/BONUSPastelUI - sprite
+  bounds: 589, 0, 4, 9
+  index: 1314
+sprite/BONUSPastelUI - sprite
+  bounds: 593, 0, 10, 9
+  index: 1315
+sprite/BONUSPastelUI - sprite
+  bounds: 603, 0, 4, 9
+  index: 1317
+sprite/BONUSPastelUI - sprite
+  bounds: 607, 0, 4, 9
+  index: 1318
+sprite/BONUSPastelUI - sprite
+  bounds: 272, 233, 16, 16
+  index: 1319
+sprite/BONUSPastelUI - sprite
+  bounds: 288, 233, 16, 16
+  index: 1320
+sprite/BONUSPastelUI - sprite
+  bounds: 573, 109, 14, 14
+  index: 1321
+sprite/BONUSPastelUI - sprite
+  bounds: 587, 109, 14, 14
+  index: 1322
+sprite/BONUSPastelUI - sprite
+  bounds: 601, 109, 15, 14
+  index: 1323
+sprite/BONUSPastelUI - sprite
+  bounds: 562, 96, 8, 12
+  index: 1324
+sprite/BONUSPastelUI - sprite
+  bounds: 616, 109, 15, 14
+  index: 1325
+sprite/BONUSPastelUI - sprite
+  bounds: 570, 96, 8, 12
+  index: 1326
+sprite/BONUSPastelUI - sprite
+  bounds: 368, 286, 50, 26
+  index: 1327
+sprite/BONUSPastelUI - sprite
+  bounds: 418, 286, 50, 26
+  index: 1328
+sprite/BONUSPastelUI - sprite
+  bounds: 578, 96, 13, 12
+  index: 1329
+sprite/BONUSPastelUI - sprite
+  bounds: 736, 28, 6, 10
+  index: 1330
+sprite/BONUSPastelUI - sprite
+  bounds: 591, 96, 13, 12
+  index: 1331
+sprite/BONUSPastelUI - sprite
+  bounds: 742, 28, 6, 10
+  index: 1332
+sprite/BONUSPastelUI - sprite
+  bounds: 153, 0, 10, 6
+  index: 1333
+sprite/BONUSPastelUI - sprite
+  bounds: 163, 0, 10, 6
+  index: 1334
+sprite/BONUSPastelUI - sprite
+  bounds: 65, 0, 8, 4
+  index: 1335
+sprite/BONUSPastelUI - sprite
+  bounds: 73, 0, 8, 4
+  index: 1336
+sprite/BONUSPastelUI - sprite
+  bounds: 604, 96, 10, 12
+  index: 1337
+sprite/BONUSPastelUI - sprite
+  bounds: 93, 109, 11, 13
+  index: 1338
+sprite/BONUSPastelUI - sprite
+  bounds: 614, 96, 10, 12
+  index: 1339
+sprite/BONUSPastelUI - sprite
+  bounds: 104, 109, 11, 13
+  index: 1340
+sprite/BONUSPastelUI - sprite
+  bounds: 288, 72, 11, 11
+  index: 1341
+sprite/BONUSPastelUI - sprite
+  bounds: 299, 72, 11, 11
+  index: 1342
+sprite/BONUSPastelUI - sprite
+  bounds: 315, 0, 8, 7
+  index: 1343
+sprite/BONUSPastelUI - sprite
+  bounds: 310, 72, 9, 11
+  index: 1344
+sprite/BONUSPastelUI - sprite
+  bounds: 323, 0, 8, 7
+  index: 1345
+sprite/BONUSPastelUI - sprite
+  bounds: 319, 72, 9, 11
+  index: 1346
+sprite/BONUSPastelUI - sprite
+  bounds: 611, 0, 11, 9
+  index: 1347
+sprite/BONUSPastelUI - sprite
+  bounds: 622, 0, 11, 9
+  index: 1348
+sprite/BONUSPastelUI - sprite
+  bounds: 633, 0, 9, 9
+  index: 1349
+sprite/BONUSPastelUI - sprite
+  bounds: 642, 0, 9, 9
+  index: 1350
+sprite/BONUSPastelUI - sprite
+  bounds: 331, 0, 9, 7
+  index: 1351
+sprite/BONUSPastelUI - sprite
+  bounds: 340, 0, 9, 7
+  index: 1352
+sprite/BONUSPastelUI - sprite
+  bounds: 631, 109, 15, 14
+  index: 1355
+sprite/BONUSPastelUI - sprite
+  bounds: 646, 109, 15, 14
+  index: 1356
+sprite/BONUSPastelUI - sprite
+  bounds: 624, 96, 11, 12
+  index: 1357
+sprite/BONUSPastelUI - sprite
+  bounds: 635, 96, 11, 12
+  index: 1358
+sprite/BONUSPastelUI - sprite
+  bounds: 646, 96, 8, 12
+  index: 1359
+sprite/BONUSPastelUI - sprite
+  bounds: 654, 96, 8, 12
+  index: 1361
+sprite/BONUSPastelUI - sprite
+  bounds: 328, 72, 12, 11
+  index: 1363
+sprite/BONUSPastelUI - sprite
+  bounds: 340, 72, 10, 11
+  index: 1364
+sprite/BONUSPastelUI - sprite
+  bounds: 350, 72, 12, 11
+  index: 1365
+sprite/BONUSPastelUI - sprite
+  bounds: 362, 72, 10, 11
+  index: 1366
+sprite/BONUSPastelUI - sprite
+  bounds: 748, 28, 9, 10
+  index: 1367
+sprite/BONUSPastelUI - sprite
+  bounds: 757, 28, 9, 10
+  index: 1368
+sprite/BONUSPastelUI - sprite
+  bounds: 468, 286, 50, 26
+  index: 1369
+sprite/BONUSPastelUI - sprite
+  bounds: 518, 286, 50, 26
+  index: 1370
+sprite/BONUSPastelUI - sprite
+  bounds: 651, 0, 10, 9
+  index: 1371
+sprite/BONUSPastelUI - sprite
+  bounds: 661, 0, 4, 9
+  index: 1373
+sprite/BONUSPastelUI - sprite
+  bounds: 665, 0, 4, 9
+  index: 1374
+sprite/BONUSPastelUI - sprite
+  bounds: 669, 0, 10, 9
+  index: 1375
+sprite/BONUSPastelUI - sprite
+  bounds: 679, 0, 4, 9
+  index: 1377
+sprite/BONUSPastelUI - sprite
+  bounds: 683, 0, 4, 9
+  index: 1378
+sprite/BONUSPastelUI - sprite
+  bounds: 304, 233, 16, 16
+  index: 1379
+sprite/BONUSPastelUI - sprite
+  bounds: 320, 233, 16, 16
+  index: 1380
+sprite/BONUSPastelUI - sprite
+  bounds: 661, 109, 14, 14
+  index: 1381
+sprite/BONUSPastelUI - sprite
+  bounds: 675, 109, 14, 14
+  index: 1382
+sprite/BONUSPastelUI - sprite
+  bounds: 689, 109, 15, 14
+  index: 1383
+sprite/BONUSPastelUI - sprite
+  bounds: 662, 96, 8, 12
+  index: 1384
+sprite/BONUSPastelUI - sprite
+  bounds: 704, 109, 15, 14
+  index: 1385
+sprite/BONUSPastelUI - sprite
+  bounds: 670, 96, 8, 12
+  index: 1386
+sprite/BONUSPastelUI - sprite
+  bounds: 678, 96, 13, 12
+  index: 1387
+sprite/BONUSPastelUI - sprite
+  bounds: 766, 28, 6, 10
+  index: 1388
+sprite/BONUSPastelUI - sprite
+  bounds: 691, 96, 13, 12
+  index: 1389
+sprite/BONUSPastelUI - sprite
+  bounds: 772, 28, 6, 10
+  index: 1390
+sprite/BONUSPastelUI - sprite
+  bounds: 173, 0, 10, 6
+  index: 1391
+sprite/BONUSPastelUI - sprite
+  bounds: 183, 0, 10, 6
+  index: 1392
+sprite/BONUSPastelUI - sprite
+  bounds: 903, 368, 89, 56
+  index: 1393
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 424, 59, 56
+  index: 1394
+sprite/BONUSPastelUI - sprite
+  bounds: 81, 0, 8, 4
+  index: 1395
+sprite/BONUSPastelUI - sprite
+  bounds: 89, 0, 8, 4
+  index: 1396
+sprite/BONUSPastelUI - sprite
+  bounds: 756, 368, 49, 50
+  index: 1397
+sprite/BONUSPastelUI - sprite
+  bounds: 704, 96, 10, 12
+  index: 1398
+sprite/BONUSPastelUI - sprite
+  bounds: 115, 109, 11, 13
+  index: 1399
+sprite/BONUSPastelUI - sprite
+  bounds: 714, 96, 10, 12
+  index: 1400
+sprite/BONUSPastelUI - sprite
+  bounds: 126, 109, 11, 13
+  index: 1401
+sprite/BONUSPastelUI - sprite
+  bounds: 372, 72, 11, 11
+  index: 1402
+sprite/BONUSPastelUI - sprite
+  bounds: 383, 72, 11, 11
+  index: 1403
+sprite/BONUSPastelUI - sprite
+  bounds: 349, 0, 8, 7
+  index: 1404
+sprite/BONUSPastelUI - sprite
+  bounds: 394, 72, 9, 11
+  index: 1405
+sprite/BONUSPastelUI - sprite
+  bounds: 357, 0, 8, 7
+  index: 1406
+sprite/BONUSPastelUI - sprite
+  bounds: 403, 72, 9, 11
+  index: 1407
+sprite/BONUSPastelUI - sprite
+  bounds: 568, 286, 50, 26
+  index: 1408
+sprite/BONUSPastelUI - sprite
+  bounds: 618, 286, 50, 26
+  index: 1409
+sprite/BONUSPastelUI - sprite
+  bounds: 687, 0, 11, 9
+  index: 1410
+sprite/BONUSPastelUI - sprite
+  bounds: 698, 0, 11, 9
+  index: 1411
+sprite/BONUSPastelUI - sprite
+  bounds: 709, 0, 9, 9
+  index: 1412
+sprite/BONUSPastelUI - sprite
+  bounds: 718, 0, 9, 9
+  index: 1413
+sprite/BONUSPastelUI - sprite
+  bounds: 365, 0, 9, 7
+  index: 1414
+sprite/BONUSPastelUI - sprite
+  bounds: 374, 0, 9, 7
+  index: 1415
+sprite/BONUSPastelUI - sprite
+  bounds: 719, 109, 15, 14
+  index: 1418
+sprite/BONUSPastelUI - sprite
+  bounds: 734, 109, 15, 14
+  index: 1419
+sprite/BONUSPastelUI - sprite
+  bounds: 724, 96, 11, 12
+  index: 1420
+sprite/BONUSPastelUI - sprite
+  bounds: 735, 96, 11, 12
+  index: 1421
+sprite/BONUSPastelUI - sprite
+  bounds: 746, 96, 8, 12
+  index: 1422
+sprite/BONUSPastelUI - sprite
+  bounds: 754, 96, 8, 12
+  index: 1424
+sprite/BONUSPastelUI - sprite
+  bounds: 412, 72, 12, 11
+  index: 1426
+sprite/BONUSPastelUI - sprite
+  bounds: 424, 72, 10, 11
+  index: 1427
+sprite/BONUSPastelUI - sprite
+  bounds: 434, 72, 12, 11
+  index: 1428
+sprite/BONUSPastelUI - sprite
+  bounds: 446, 72, 10, 11
+  index: 1429
+sprite/BONUSPastelUI - sprite
+  bounds: 778, 28, 9, 10
+  index: 1430
+sprite/BONUSPastelUI - sprite
+  bounds: 787, 28, 9, 10
+  index: 1431
+sprite/BONUSPastelUI - sprite
+  bounds: 727, 0, 10, 9
+  index: 1432
+sprite/BONUSPastelUI - sprite
+  bounds: 737, 0, 4, 9
+  index: 1434
+sprite/BONUSPastelUI - sprite
+  bounds: 741, 0, 4, 9
+  index: 1435
+sprite/BONUSPastelUI - sprite
+  bounds: 745, 0, 10, 9
+  index: 1436
+sprite/BONUSPastelUI - sprite
+  bounds: 755, 0, 4, 9
+  index: 1438
+sprite/BONUSPastelUI - sprite
+  bounds: 759, 0, 4, 9
+  index: 1439
+sprite/BONUSPastelUI - sprite
+  bounds: 336, 233, 16, 16
+  index: 1440
+sprite/BONUSPastelUI - sprite
+  bounds: 352, 233, 16, 16
+  index: 1441
+sprite/BONUSPastelUI - sprite
+  bounds: 749, 109, 14, 14
+  index: 1442
+sprite/BONUSPastelUI - sprite
+  bounds: 763, 109, 14, 14
+  index: 1443
+sprite/BONUSPastelUI - sprite
+  bounds: 777, 109, 15, 14
+  index: 1444
+sprite/BONUSPastelUI - sprite
+  bounds: 762, 96, 8, 12
+  index: 1445
+sprite/BONUSPastelUI - sprite
+  bounds: 792, 109, 15, 14
+  index: 1446
+sprite/BONUSPastelUI - sprite
+  bounds: 770, 96, 8, 12
+  index: 1447
+sprite/BONUSPastelUI - sprite
+  bounds: 778, 96, 13, 12
+  index: 1448
+sprite/BONUSPastelUI - sprite
+  bounds: 796, 28, 6, 10
+  index: 1449
+sprite/BONUSPastelUI - sprite
+  bounds: 791, 96, 13, 12
+  index: 1450
+sprite/BONUSPastelUI - sprite
+  bounds: 802, 28, 6, 10
+  index: 1451
+sprite/BONUSPastelUI - sprite
+  bounds: 668, 286, 50, 26
+  index: 1452
+sprite/BONUSPastelUI - sprite
+  bounds: 718, 286, 50, 26
+  index: 1453
+sprite/BONUSPastelUI - sprite
+  bounds: 193, 0, 10, 6
+  index: 1454
+sprite/BONUSPastelUI - sprite
+  bounds: 203, 0, 10, 6
+  index: 1455
+sprite/BONUSPastelUI - sprite
+  bounds: 97, 0, 8, 4
+  index: 1456
+sprite/BONUSPastelUI - sprite
+  bounds: 105, 0, 8, 4
+  index: 1457
+sprite/BONUSPastelUI - sprite
+  bounds: 270, 623, 90, 117
+  index: 1458
+sprite/BONUSPastelUI - sprite
+  bounds: 360, 623, 90, 117
+  index: 1459
+sprite/BONUSPastelUI - sprite
+  bounds: 450, 623, 90, 117
+  index: 1460
+sprite/BONUSPastelUI - sprite
+  bounds: 540, 623, 90, 117
+  index: 1461
+sprite/BONUSPastelUI - sprite
+  bounds: 197, 506, 89, 83
+  index: 1462
+sprite/BONUSPastelUI - sprite
+  bounds: 286, 506, 59, 83
+  index: 1463
+sprite/BONUSPastelUI - sprite
+  bounds: 944, 424, 49, 82
+  index: 1464
+sprite/BONUSPastelUI - sprite
+  bounds: 306, 368, 90, 48
+  index: 1465
+sprite/BONUSPastelUI - sprite
+  bounds: 396, 368, 60, 48
+  index: 1466
+sprite/BONUSPastelUI - sprite
+  bounds: 180, 368, 42, 42
+  index: 1467
+sprite/BONUSPastelUI - sprite
+  bounds: 768, 286, 50, 26
+  index: 1468
+sprite/BONUSPastelUI - sprite
+  bounds: 818, 286, 50, 26
+  index: 1469
+sprite/BONUSPastelUI - sprite
+  bounds: 868, 286, 50, 26
+  index: 1471
+sprite/BONUSPastelUI - sprite
+  bounds: 918, 286, 50, 26
+  index: 1472
+sprite/BONUSPastelUI - sprite
+  bounds: 345, 506, 89, 83
+  index: 1473
+sprite/BONUSPastelUI - sprite
+  bounds: 434, 506, 59, 83
+  index: 1474
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 506, 49, 82
+  index: 1475
+sprite/BONUSPastelUI - sprite
+  bounds: 968, 286, 50, 26
+  index: 1476
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 312, 50, 26
+  index: 1477
+sprite/BONUSPastelUI - sprite
+  bounds: 59, 424, 89, 56
+  index: 1478
+sprite/BONUSPastelUI - sprite
+  bounds: 148, 424, 59, 56
+  index: 1479
+sprite/BONUSPastelUI - sprite
+  bounds: 805, 368, 49, 50
+  index: 1480
+sprite/BONUSPastelUI - sprite
+  bounds: 50, 312, 50, 26
+  index: 1481
+sprite/BONUSPastelUI - sprite
+  bounds: 100, 312, 50, 26
+  index: 1482
+sprite/BONUSPastelUI - sprite
+  bounds: 630, 623, 90, 117
+  index: 1483
+sprite/BONUSPastelUI - sprite
+  bounds: 720, 623, 90, 117
+  index: 1484
+sprite/BONUSPastelUI - sprite
+  bounds: 810, 623, 90, 117
+  index: 1485
+sprite/BONUSPastelUI - sprite
+  bounds: 900, 623, 90, 117
+  index: 1486
+sprite/BONUSPastelUI - sprite
+  bounds: 207, 424, 89, 56
+  index: 1487
+sprite/BONUSPastelUI - sprite
+  bounds: 296, 424, 59, 56
+  index: 1488
+sprite/BONUSPastelUI - sprite
+  bounds: 854, 368, 49, 50
+  index: 1489
+sprite/BONUSPastelUI - sprite
+  bounds: 456, 368, 90, 48
+  index: 1490
+sprite/BONUSPastelUI - sprite
+  bounds: 546, 368, 60, 48
+  index: 1491
+sprite/BONUSPastelUI - sprite
+  bounds: 222, 368, 42, 42
+  index: 1492
+sprite/BONUSPastelUI - sprite
+  bounds: 150, 312, 50, 26
+  index: 1493
+sprite/BONUSPastelUI - sprite
+  bounds: 200, 312, 50, 26
+  index: 1494
+sprite/BONUSPastelUI - sprite
+  bounds: 648, 250, 20, 17
+  index: 1496
+sprite/BONUSPastelUI - sprite
+  bounds: 668, 250, 20, 17
+  index: 1497
+sprite/BONUSPastelUI - sprite
+  bounds: 688, 250, 20, 17
+  index: 1498
+sprite/BONUSPastelUI - sprite
+  bounds: 763, 0, 8, 9
+  index: 1499
+sprite/BONUSPastelUI - sprite
+  bounds: 771, 0, 7, 9
+  index: 1500
+sprite/BONUSPastelUI - sprite
+  bounds: 778, 0, 7, 9
+  index: 1501
+sprite/BONUSPastelUI - sprite
+  bounds: 785, 0, 7, 9
+  index: 1502
+sprite/BONUSPastelUI - sprite
+  bounds: 792, 0, 6, 9
+  index: 1503
+sprite/BONUSPastelUI - sprite
+  bounds: 798, 0, 7, 9
+  index: 1504
+sprite/BONUSPastelUI - sprite
+  bounds: 805, 0, 7, 9
+  index: 1505
+sprite/BONUSPastelUI - sprite
+  bounds: 812, 0, 9, 9
+  index: 1506
+sprite/BONUSPastelUI - sprite
+  bounds: 821, 0, 4, 9
+  index: 1507
+sprite/BONUSPastelUI - sprite
+  bounds: 825, 0, 7, 9
+  index: 1508
+sprite/BONUSPastelUI - sprite
+  bounds: 832, 0, 8, 9
+  index: 1509
+sprite/BONUSPastelUI - sprite
+  bounds: 840, 0, 6, 9
+  index: 1510
+sprite/BONUSPastelUI - sprite
+  bounds: 846, 0, 9, 9
+  index: 1511
+sprite/BONUSPastelUI - sprite
+  bounds: 855, 0, 6, 9
+  index: 1512
+sprite/BONUSPastelUI - sprite
+  bounds: 861, 0, 7, 9
+  index: 1513
+sprite/BONUSPastelUI - sprite
+  bounds: 868, 0, 8, 9
+  index: 1514
+sprite/BONUSPastelUI - sprite
+  bounds: 876, 0, 8, 9
+  index: 1515
+sprite/BONUSPastelUI - sprite
+  bounds: 884, 0, 7, 9
+  index: 1516
+sprite/BONUSPastelUI - sprite
+  bounds: 891, 0, 6, 9
+  index: 1517
+sprite/BONUSPastelUI - sprite
+  bounds: 897, 0, 7, 9
+  index: 1518
+sprite/BONUSPastelUI - sprite
+  bounds: 904, 0, 7, 9
+  index: 1519
+sprite/BONUSPastelUI - sprite
+  bounds: 911, 0, 8, 9
+  index: 1520
+sprite/BONUSPastelUI - sprite
+  bounds: 919, 0, 7, 9
+  index: 1521
+sprite/BONUSPastelUI - sprite
+  bounds: 926, 0, 9, 9
+  index: 1522
+sprite/BONUSPastelUI - sprite
+  bounds: 935, 0, 11, 9
+  index: 1523
+sprite/BONUSPastelUI - sprite
+  bounds: 606, 368, 90, 48
+  index: 1524
+sprite/BONUSPastelUI - sprite
+  bounds: 696, 368, 60, 48
+  index: 1525
+sprite/BONUSPastelUI - sprite
+  bounds: 264, 368, 42, 42
+  index: 1526
+sprite/BONUSPastelUI - sprite
+  bounds: 946, 0, 8, 9
+  index: 1527
+sprite/BONUSPastelUI - sprite
+  bounds: 954, 0, 6, 9
+  index: 1528
+sprite/BONUSPastelUI - sprite
+  bounds: 960, 0, 8, 9
+  index: 1529
+sprite/BONUSPastelUI - sprite
+  bounds: 968, 0, 8, 9
+  index: 1530
+sprite/BONUSPastelUI - sprite
+  bounds: 976, 0, 6, 9
+  index: 1531
+sprite/BONUSPastelUI - sprite
+  bounds: 982, 0, 9, 9
+  index: 1532
+sprite/BONUSPastelUI - sprite
+  bounds: 991, 0, 4, 9
+  index: 1533
+sprite/BONUSPastelUI - sprite
+  bounds: 995, 0, 6, 9
+  index: 1534
+sprite/BONUSPastelUI - sprite
+  bounds: 1001, 0, 6, 9
+  index: 1535
+sprite/BONUSPastelUI - sprite
+  bounds: 1007, 0, 7, 9
+  index: 1536
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 9, 8, 9
+  index: 1537
+sprite/BONUSPastelUI - sprite
+  bounds: 8, 9, 7, 9
+  index: 1538
+sprite/BONUSPastelUI - sprite
+  bounds: 15, 9, 7, 9
+  index: 1539
+sprite/BONUSPastelUI - sprite
+  bounds: 22, 9, 8, 9
+  index: 1540
+sprite/BONUSPastelUI - sprite
+  bounds: 30, 9, 7, 9
+  index: 1541
+sprite/BONUSPastelUI - sprite
+  bounds: 37, 9, 8, 9
+  index: 1542
+sprite/BONUSPastelUI - sprite
+  bounds: 45, 9, 7, 9
+  index: 1543
+sprite/BONUSPastelUI - sprite
+  bounds: 52, 9, 7, 9
+  index: 1544
+sprite/BONUSPastelUI - sprite
+  bounds: 59, 9, 9, 9
+  index: 1545
+sprite/BONUSPastelUI - sprite
+  bounds: 68, 9, 6, 9
+  index: 1546
+sprite/BONUSPastelUI - sprite
+  bounds: 74, 9, 4, 9
+  index: 1547
+sprite/BONUSPastelUI - sprite
+  bounds: 78, 9, 6, 9
+  index: 1548
+sprite/BONUSPastelUI - sprite
+  bounds: 84, 9, 4, 9
+  index: 1549
+sprite/BONUSPastelUI - sprite
+  bounds: 88, 9, 7, 9
+  index: 1550
+sprite/BONUSPastelUI - sprite
+  bounds: 95, 9, 6, 9
+  index: 1551
+sprite/BONUSPastelUI - sprite
+  bounds: 708, 250, 20, 17
+  index: 1552
+sprite/BONUSPastelUI - sprite
+  bounds: 728, 250, 20, 17
+  index: 1553
+sprite/BONUSPastelUI - sprite
+  bounds: 748, 250, 20, 17
+  index: 1554
+sprite/BONUSPastelUI - sprite
+  bounds: 101, 9, 7, 9
+  index: 1555
+sprite/BONUSPastelUI - sprite
+  bounds: 108, 9, 6, 9
+  index: 1556
+sprite/BONUSPastelUI - sprite
+  bounds: 114, 9, 6, 9
+  index: 1557
+sprite/BONUSPastelUI - sprite
+  bounds: 120, 9, 6, 9
+  index: 1558
+sprite/BONUSPastelUI - sprite
+  bounds: 126, 9, 4, 9
+  index: 1559
+sprite/BONUSPastelUI - sprite
+  bounds: 130, 9, 6, 9
+  index: 1560
+sprite/BONUSPastelUI - sprite
+  bounds: 136, 9, 7, 9
+  index: 1561
+sprite/BONUSPastelUI - sprite
+  bounds: 143, 9, 7, 9
+  index: 1562
+sprite/BONUSPastelUI - sprite
+  bounds: 150, 9, 9, 9
+  index: 1563
+sprite/BONUSPastelUI - sprite
+  bounds: 159, 9, 7, 9
+  index: 1564
+sprite/BONUSPastelUI - sprite
+  bounds: 166, 9, 7, 9
+  index: 1565
+sprite/BONUSPastelUI - sprite
+  bounds: 173, 9, 4, 9
+  index: 1566
+sprite/BONUSPastelUI - sprite
+  bounds: 177, 9, 7, 9
+  index: 1567
+sprite/BONUSPastelUI - sprite
+  bounds: 184, 9, 9, 9
+  index: 1568
+sprite/BONUSPastelUI - sprite
+  bounds: 193, 9, 6, 9
+  index: 1569
+sprite/BONUSPastelUI - sprite
+  bounds: 199, 9, 11, 9
+  index: 1570
+sprite/BONUSPastelUI - sprite
+  bounds: 210, 9, 9, 9
+  index: 1571
+sprite/BONUSPastelUI - sprite
+  bounds: 219, 9, 6, 9
+  index: 1572
+sprite/BONUSPastelUI - sprite
+  bounds: 225, 9, 6, 9
+  index: 1573
+sprite/BONUSPastelUI - sprite
+  bounds: 231, 9, 7, 9
+  index: 1574
+sprite/BONUSPastelUI - sprite
+  bounds: 238, 9, 7, 9
+  index: 1575
+sprite/BONUSPastelUI - sprite
+  bounds: 245, 9, 8, 9
+  index: 1576
+sprite/BONUSPastelUI - sprite
+  bounds: 253, 9, 6, 9
+  index: 1577
+sprite/BONUSPastelUI - sprite
+  bounds: 259, 9, 4, 9
+  index: 1578
+sprite/BONUSPastelUI - sprite
+  bounds: 263, 9, 7, 9
+  index: 1579
+sprite/BONUSPastelUI - sprite
+  bounds: 270, 9, 6, 9
+  index: 1580
+sprite/BONUSPastelUI - sprite
+  bounds: 276, 9, 7, 9
+  index: 1581
+sprite/BONUSPastelUI - sprite
+  bounds: 283, 9, 7, 9
+  index: 1583
+sprite/BONUSPastelUI - sprite
+  bounds: 290, 9, 6, 9
+  index: 1584
+sprite/BONUSPastelUI - sprite
+  bounds: 296, 9, 8, 9
+  index: 1585
+sprite/BONUSPastelUI - sprite
+  bounds: 304, 9, 8, 9
+  index: 1586
+sprite/BONUSPastelUI - sprite
+  bounds: 312, 9, 6, 9
+  index: 1587
+sprite/BONUSPastelUI - sprite
+  bounds: 318, 9, 7, 9
+  index: 1588
+sprite/BONUSPastelUI - sprite
+  bounds: 325, 9, 8, 9
+  index: 1589
+sprite/BONUSPastelUI - sprite
+  bounds: 333, 9, 7, 9
+  index: 1590
+sprite/BONUSPastelUI - sprite
+  bounds: 340, 9, 6, 9
+  index: 1591
+sprite/BONUSPastelUI - sprite
+  bounds: 346, 9, 9, 9
+  index: 1592
+sprite/BONUSPastelUI - sprite
+  bounds: 355, 9, 7, 9
+  index: 1593
+sprite/BONUSPastelUI - sprite
+  bounds: 362, 9, 8, 9
+  index: 1594
+sprite/BONUSPastelUI - sprite
+  bounds: 370, 9, 6, 9
+  index: 1595
+sprite/BONUSPastelUI - sprite
+  bounds: 376, 9, 7, 9
+  index: 1596
+sprite/BONUSPastelUI - sprite
+  bounds: 383, 9, 4, 9
+  index: 1597
+sprite/BONUSPastelUI - sprite
+  bounds: 387, 9, 6, 9
+  index: 1598
+sprite/BONUSPastelUI - sprite
+  bounds: 393, 9, 7, 9
+  index: 1599
+sprite/BONUSPastelUI - sprite
+  bounds: 400, 9, 6, 9
+  index: 1600
+sprite/BONUSPastelUI - sprite
+  bounds: 406, 9, 6, 9
+  index: 1601
+sprite/BONUSPastelUI - sprite
+  bounds: 412, 9, 6, 9
+  index: 1602
+sprite/BONUSPastelUI - sprite
+  bounds: 418, 9, 7, 9
+  index: 1603
+sprite/BONUSPastelUI - sprite
+  bounds: 425, 9, 8, 9
+  index: 1604
+sprite/BONUSPastelUI - sprite
+  bounds: 433, 9, 8, 9
+  index: 1605
+sprite/BONUSPastelUI - sprite
+  bounds: 441, 9, 6, 9
+  index: 1606
+sprite/BONUSPastelUI - sprite
+  bounds: 447, 9, 7, 9
+  index: 1607
+sprite/BONUSPastelUI - sprite
+  bounds: 454, 9, 8, 9
+  index: 1608
+sprite/BONUSPastelUI - sprite
+  bounds: 462, 9, 7, 9
+  index: 1609
+sprite/BONUSPastelUI - sprite
+  bounds: 469, 9, 4, 9
+  index: 1610
+sprite/BONUSPastelUI - sprite
+  bounds: 473, 9, 6, 9
+  index: 1611
+sprite/BONUSPastelUI - sprite
+  bounds: 479, 9, 7, 9
+  index: 1612
+sprite/BONUSPastelUI - sprite
+  bounds: 768, 250, 20, 17
+  index: 1614
+sprite/BONUSPastelUI - sprite
+  bounds: 788, 250, 13, 17
+  index: 1615
+sprite/BONUSPastelUI - sprite
+  bounds: 486, 9, 8, 9
+  index: 1617
+sprite/BONUSPastelUI - sprite
+  bounds: 494, 9, 7, 9
+  index: 1618
+sprite/BONUSPastelUI - sprite
+  bounds: 501, 9, 7, 9
+  index: 1619
+sprite/BONUSPastelUI - sprite
+  bounds: 508, 9, 7, 9
+  index: 1620
+sprite/BONUSPastelUI - sprite
+  bounds: 515, 9, 6, 9
+  index: 1621
+sprite/BONUSPastelUI - sprite
+  bounds: 521, 9, 7, 9
+  index: 1622
+sprite/BONUSPastelUI - sprite
+  bounds: 528, 9, 7, 9
+  index: 1623
+sprite/BONUSPastelUI - sprite
+  bounds: 535, 9, 9, 9
+  index: 1624
+sprite/BONUSPastelUI - sprite
+  bounds: 544, 9, 4, 9
+  index: 1625
+sprite/BONUSPastelUI - sprite
+  bounds: 548, 9, 7, 9
+  index: 1626
+sprite/BONUSPastelUI - sprite
+  bounds: 555, 9, 8, 9
+  index: 1627
+sprite/BONUSPastelUI - sprite
+  bounds: 563, 9, 6, 9
+  index: 1628
+sprite/BONUSPastelUI - sprite
+  bounds: 569, 9, 9, 9
+  index: 1629
+sprite/BONUSPastelUI - sprite
+  bounds: 578, 9, 6, 9
+  index: 1630
+sprite/BONUSPastelUI - sprite
+  bounds: 584, 9, 7, 9
+  index: 1631
+sprite/BONUSPastelUI - sprite
+  bounds: 591, 9, 8, 9
+  index: 1632
+sprite/BONUSPastelUI - sprite
+  bounds: 599, 9, 8, 9
+  index: 1633
+sprite/BONUSPastelUI - sprite
+  bounds: 607, 9, 7, 9
+  index: 1634
+sprite/BONUSPastelUI - sprite
+  bounds: 614, 9, 6, 9
+  index: 1635
+sprite/BONUSPastelUI - sprite
+  bounds: 620, 9, 7, 9
+  index: 1636
+sprite/BONUSPastelUI - sprite
+  bounds: 627, 9, 7, 9
+  index: 1637
+sprite/BONUSPastelUI - sprite
+  bounds: 634, 9, 8, 9
+  index: 1638
+sprite/BONUSPastelUI - sprite
+  bounds: 642, 9, 7, 9
+  index: 1639
+sprite/BONUSPastelUI - sprite
+  bounds: 649, 9, 9, 9
+  index: 1640
+sprite/BONUSPastelUI - sprite
+  bounds: 658, 9, 11, 9
+  index: 1641
+sprite/BONUSPastelUI - sprite
+  bounds: 669, 9, 8, 9
+  index: 1642
+sprite/BONUSPastelUI - sprite
+  bounds: 677, 9, 7, 9
+  index: 1643
+sprite/BONUSPastelUI - sprite
+  bounds: 684, 9, 7, 9
+  index: 1644
+sprite/BONUSPastelUI - sprite
+  bounds: 691, 9, 7, 9
+  index: 1645
+sprite/BONUSPastelUI - sprite
+  bounds: 698, 9, 6, 9
+  index: 1646
+sprite/BONUSPastelUI - sprite
+  bounds: 704, 9, 7, 9
+  index: 1647
+sprite/BONUSPastelUI - sprite
+  bounds: 711, 9, 7, 9
+  index: 1648
+sprite/BONUSPastelUI - sprite
+  bounds: 718, 9, 9, 9
+  index: 1649
+sprite/BONUSPastelUI - sprite
+  bounds: 727, 9, 4, 9
+  index: 1650
+sprite/BONUSPastelUI - sprite
+  bounds: 731, 9, 7, 9
+  index: 1651
+sprite/BONUSPastelUI - sprite
+  bounds: 738, 9, 8, 9
+  index: 1652
+sprite/BONUSPastelUI - sprite
+  bounds: 746, 9, 6, 9
+  index: 1653
+sprite/BONUSPastelUI - sprite
+  bounds: 752, 9, 9, 9
+  index: 1654
+sprite/BONUSPastelUI - sprite
+  bounds: 761, 9, 6, 9
+  index: 1655
+sprite/BONUSPastelUI - sprite
+  bounds: 767, 9, 7, 9
+  index: 1656
+sprite/BONUSPastelUI - sprite
+  bounds: 774, 9, 8, 9
+  index: 1657
+sprite/BONUSPastelUI - sprite
+  bounds: 782, 9, 8, 9
+  index: 1658
+sprite/BONUSPastelUI - sprite
+  bounds: 790, 9, 7, 9
+  index: 1659
+sprite/BONUSPastelUI - sprite
+  bounds: 797, 9, 6, 9
+  index: 1660
+sprite/BONUSPastelUI - sprite
+  bounds: 803, 9, 7, 9
+  index: 1661
+sprite/BONUSPastelUI - sprite
+  bounds: 810, 9, 7, 9
+  index: 1662
+sprite/BONUSPastelUI - sprite
+  bounds: 817, 9, 8, 9
+  index: 1663
+sprite/BONUSPastelUI - sprite
+  bounds: 825, 9, 7, 9
+  index: 1664
+sprite/BONUSPastelUI - sprite
+  bounds: 832, 9, 9, 9
+  index: 1665
+sprite/BONUSPastelUI - sprite
+  bounds: 841, 9, 11, 9
+  index: 1666
+sprite/BONUSPastelUI - sprite
+  bounds: 852, 9, 8, 9
+  index: 1667
+sprite/BONUSPastelUI - sprite
+  bounds: 860, 9, 6, 9
+  index: 1668
+sprite/BONUSPastelUI - sprite
+  bounds: 866, 9, 8, 9
+  index: 1669
+sprite/BONUSPastelUI - sprite
+  bounds: 874, 9, 8, 9
+  index: 1670
+sprite/BONUSPastelUI - sprite
+  bounds: 882, 9, 6, 9
+  index: 1671
+sprite/BONUSPastelUI - sprite
+  bounds: 888, 9, 9, 9
+  index: 1672
+sprite/BONUSPastelUI - sprite
+  bounds: 897, 9, 4, 9
+  index: 1673
+sprite/BONUSPastelUI - sprite
+  bounds: 901, 9, 6, 9
+  index: 1674
+sprite/BONUSPastelUI - sprite
+  bounds: 907, 9, 6, 9
+  index: 1675
+sprite/BONUSPastelUI - sprite
+  bounds: 913, 9, 7, 9
+  index: 1676
+sprite/BONUSPastelUI - sprite
+  bounds: 920, 9, 8, 9
+  index: 1677
+sprite/BONUSPastelUI - sprite
+  bounds: 928, 9, 7, 9
+  index: 1678
+sprite/BONUSPastelUI - sprite
+  bounds: 935, 9, 7, 9
+  index: 1679
+sprite/BONUSPastelUI - sprite
+  bounds: 942, 9, 8, 9
+  index: 1680
+sprite/BONUSPastelUI - sprite
+  bounds: 950, 9, 7, 9
+  index: 1681
+sprite/BONUSPastelUI - sprite
+  bounds: 957, 9, 8, 9
+  index: 1682
+sprite/BONUSPastelUI - sprite
+  bounds: 965, 9, 7, 9
+  index: 1683
+sprite/BONUSPastelUI - sprite
+  bounds: 972, 9, 7, 9
+  index: 1684
+sprite/BONUSPastelUI - sprite
+  bounds: 979, 9, 9, 9
+  index: 1685
+sprite/BONUSPastelUI - sprite
+  bounds: 988, 9, 6, 9
+  index: 1686
+sprite/BONUSPastelUI - sprite
+  bounds: 994, 9, 4, 9
+  index: 1687
+sprite/BONUSPastelUI - sprite
+  bounds: 998, 9, 6, 9
+  index: 1688
+sprite/BONUSPastelUI - sprite
+  bounds: 1004, 9, 4, 9
+  index: 1689
+sprite/BONUSPastelUI - sprite
+  bounds: 1008, 9, 7, 9
+  index: 1690
+sprite/BONUSPastelUI - sprite
+  bounds: 0, 18, 6, 9
+  index: 1691
+sprite/BONUSPastelUI - sprite
+  bounds: 6, 18, 8, 9
+  index: 1692
+sprite/BONUSPastelUI - sprite
+  bounds: 14, 18, 6, 9
+  index: 1693
+sprite/BONUSPastelUI - sprite
+  bounds: 20, 18, 8, 9
+  index: 1694
+sprite/BONUSPastelUI - sprite
+  bounds: 28, 18, 8, 9
+  index: 1695
+sprite/BONUSPastelUI - sprite
+  bounds: 36, 18, 6, 9
+  index: 1696
+sprite/BONUSPastelUI - sprite
+  bounds: 42, 18, 9, 9
+  index: 1697
+sprite/BONUSPastelUI - sprite
+  bounds: 51, 18, 4, 9
+  index: 1698
+sprite/BONUSPastelUI - sprite
+  bounds: 55, 18, 6, 9
+  index: 1699
+sprite/BONUSPastelUI - sprite
+  bounds: 61, 18, 6, 9
+  index: 1700
+sprite/BONUSPastelUI - sprite
+  bounds: 67, 18, 7, 9
+  index: 1701
+sprite/BONUSPastelUI - sprite
+  bounds: 74, 18, 8, 9
+  index: 1702
+sprite/BONUSPastelUI - sprite
+  bounds: 82, 18, 7, 9
+  index: 1703
+sprite/BONUSPastelUI - sprite
+  bounds: 89, 18, 7, 9
+  index: 1704
+sprite/BONUSPastelUI - sprite
+  bounds: 96, 18, 8, 9
+  index: 1705
+sprite/BONUSPastelUI - sprite
+  bounds: 104, 18, 7, 9
+  index: 1706
+sprite/BONUSPastelUI - sprite
+  bounds: 111, 18, 8, 9
+  index: 1707
+sprite/BONUSPastelUI - sprite
+  bounds: 119, 18, 7, 9
+  index: 1708
+sprite/BONUSPastelUI - sprite
+  bounds: 126, 18, 7, 9
+  index: 1709
+sprite/BONUSPastelUI - sprite
+  bounds: 133, 18, 9, 9
+  index: 1710
+sprite/BONUSPastelUI - sprite
+  bounds: 142, 18, 6, 9
+  index: 1711
+sprite/BONUSPastelUI - sprite
+  bounds: 148, 18, 4, 9
+  index: 1712
+sprite/BONUSPastelUI - sprite
+  bounds: 152, 18, 6, 9
+  index: 1713
+sprite/BONUSPastelUI - sprite
+  bounds: 158, 18, 4, 9
+  index: 1714
+sprite/BONUSPastelUI - sprite
+  bounds: 162, 18, 7, 9
+  index: 1715
+sprite/BONUSPastelUI - sprite
+  bounds: 169, 18, 6, 9
+  index: 1716
+sprite/BONUSPastelUI - sprite
+  bounds: 801, 250, 20, 17
+  index: 1717
+sprite/BONUSPastelUI - sprite
+  bounds: 821, 250, 11, 17
+  index: 1718
+sprite/BONUSPastelUI - sprite
+  bounds: 175, 18, 7, 9
+  index: 1719
+sprite/BONUSPastelUI - sprite
+  bounds: 182, 18, 6, 9
+  index: 1720
+sprite/BONUSPastelUI - sprite
+  bounds: 188, 18, 6, 9
+  index: 1721
+sprite/BONUSPastelUI - sprite
+  bounds: 194, 18, 6, 9
+  index: 1722
+sprite/BONUSPastelUI - sprite
+  bounds: 200, 18, 4, 9
+  index: 1723
+sprite/BONUSPastelUI - sprite
+  bounds: 204, 18, 6, 9
+  index: 1724
+sprite/BONUSPastelUI - sprite
+  bounds: 210, 18, 7, 9
+  index: 1725
+sprite/BONUSPastelUI - sprite
+  bounds: 217, 18, 7, 9
+  index: 1726
+sprite/BONUSPastelUI - sprite
+  bounds: 224, 18, 9, 9
+  index: 1727
+sprite/BONUSPastelUI - sprite
+  bounds: 233, 18, 7, 9
+  index: 1728
+sprite/BONUSPastelUI - sprite
+  bounds: 240, 18, 7, 9
+  index: 1729
+sprite/BONUSPastelUI - sprite
+  bounds: 247, 18, 4, 9
+  index: 1730
+sprite/BONUSPastelUI - sprite
+  bounds: 251, 18, 7, 9
+  index: 1731
+sprite/BONUSPastelUI - sprite
+  bounds: 258, 18, 9, 9
+  index: 1732
+sprite/BONUSPastelUI - sprite
+  bounds: 267, 18, 6, 9
+  index: 1733
+sprite/BONUSPastelUI - sprite
+  bounds: 273, 18, 11, 9
+  index: 1734
+sprite/BONUSPastelUI - sprite
+  bounds: 284, 18, 9, 9
+  index: 1735
+sprite/BONUSPastelUI - sprite
+  bounds: 293, 18, 6, 9
+  index: 1736
+sprite/BONUSPastelUI - sprite
+  bounds: 299, 18, 6, 9
+  index: 1737
+sprite/BONUSPastelUI - sprite
+  bounds: 305, 18, 7, 9
+  index: 1738
+sprite/BONUSPastelUI - sprite
+  bounds: 312, 18, 7, 9
+  index: 1739
+sprite/BONUSPastelUI - sprite
+  bounds: 319, 18, 8, 9
+  index: 1740
+sprite/BONUSPastelUI - sprite
+  bounds: 327, 18, 6, 9
+  index: 1741
+sprite/BONUSPastelUI - sprite
+  bounds: 333, 18, 4, 9
+  index: 1742
+sprite/BONUSPastelUI - sprite
+  bounds: 337, 18, 7, 9
+  index: 1743
+sprite/BONUSPastelUI - sprite
+  bounds: 344, 18, 6, 9
+  index: 1744
+sprite/BONUSPastelUI - sprite
+  bounds: 350, 18, 7, 9
+  index: 1745
+sprite/BONUSPastelUI - sprite
+  bounds: 357, 18, 7, 9
+  index: 1746
+sprite/BONUSPastelUI - sprite
+  bounds: 364, 18, 6, 9
+  index: 1747
+sprite/BONUSPastelUI - sprite
+  bounds: 370, 18, 6, 9
+  index: 1748
+sprite/BONUSPastelUI - sprite
+  bounds: 376, 18, 6, 9
+  index: 1749
+sprite/BONUSPastelUI - sprite
+  bounds: 382, 18, 4, 9
+  index: 1750
+sprite/BONUSPastelUI - sprite
+  bounds: 386, 18, 6, 9
+  index: 1751
+sprite/BONUSPastelUI - sprite
+  bounds: 392, 18, 7, 9
+  index: 1752
+sprite/BONUSPastelUI - sprite
+  bounds: 399, 18, 7, 9
+  index: 1753
+sprite/BONUSPastelUI - sprite
+  bounds: 406, 18, 9, 9
+  index: 1754
+sprite/BONUSPastelUI - sprite
+  bounds: 415, 18, 7, 9
+  index: 1755
+sprite/BONUSPastelUI - sprite
+  bounds: 422, 18, 7, 9
+  index: 1756
+sprite/BONUSPastelUI - sprite
+  bounds: 429, 18, 4, 9
+  index: 1757
+sprite/BONUSPastelUI - sprite
+  bounds: 433, 18, 7, 9
+  index: 1758
+sprite/BONUSPastelUI - sprite
+  bounds: 440, 18, 9, 9
+  index: 1759
+sprite/BONUSPastelUI - sprite
+  bounds: 449, 18, 6, 9
+  index: 1760
+sprite/BONUSPastelUI - sprite
+  bounds: 455, 18, 11, 9
+  index: 1761
+sprite/BONUSPastelUI - sprite
+  bounds: 466, 18, 9, 9
+  index: 1762
+sprite/BONUSPastelUI - sprite
+  bounds: 475, 18, 6, 9
+  index: 1763
+sprite/BONUSPastelUI - sprite
+  bounds: 481, 18, 6, 9
+  index: 1764
+sprite/BONUSPastelUI - sprite
+  bounds: 487, 18, 7, 9
+  index: 1765
+sprite/BONUSPastelUI - sprite
+  bounds: 494, 18, 7, 9
+  index: 1766
+sprite/BONUSPastelUI - sprite
+  bounds: 501, 18, 8, 9
+  index: 1767
+sprite/BONUSPastelUI - sprite
+  bounds: 509, 18, 6, 9
+  index: 1768
+sprite/BONUSPastelUI - sprite
+  bounds: 515, 18, 4, 9
+  index: 1769
+sprite/BONUSPastelUI - sprite
+  bounds: 519, 18, 7, 9
+  index: 1770
+sprite/BONUSPastelUI - sprite
+  bounds: 526, 18, 6, 9
+  index: 1771
+sprite/BONUSPastelUI - sprite
+  bounds: 532, 18, 7, 9
+  index: 1772
+sprite/BONUSPastelUI - sprite
+  bounds: 539, 18, 7, 9
+  index: 1773
+sprite/BONUSPastelUI - sprite
+  bounds: 546, 18, 6, 9
+  index: 1774
+sprite/BONUSPastelUI - sprite
+  bounds: 552, 18, 8, 9
+  index: 1775
+sprite/BONUSPastelUI - sprite
+  bounds: 560, 18, 8, 9
+  index: 1776
+sprite/BONUSPastelUI - sprite
+  bounds: 568, 18, 6, 9
+  index: 1777
+sprite/BONUSPastelUI - sprite
+  bounds: 574, 18, 7, 9
+  index: 1778
+sprite/BONUSPastelUI - sprite
+  bounds: 581, 18, 8, 9
+  index: 1779
+sprite/BONUSPastelUI - sprite
+  bounds: 589, 18, 7, 9
+  index: 1780
+sprite/BONUSPastelUI - sprite
+  bounds: 596, 18, 6, 9
+  index: 1781
+sprite/BONUSPastelUI - sprite
+  bounds: 602, 18, 9, 9
+  index: 1782
+sprite/BONUSPastelUI - sprite
+  bounds: 611, 18, 7, 9
+  index: 1783
+sprite/BONUSPastelUI - sprite
+  bounds: 618, 18, 8, 9
+  index: 1784
+sprite/BONUSPastelUI - sprite
+  bounds: 626, 18, 6, 9
+  index: 1785
+sprite/BONUSPastelUI - sprite
+  bounds: 632, 18, 7, 9
+  index: 1786
+sprite/BONUSPastelUI - sprite
+  bounds: 639, 18, 4, 9
+  index: 1787
+sprite/BONUSPastelUI - sprite
+  bounds: 643, 18, 6, 9
+  index: 1788
+sprite/BONUSPastelUI - sprite
+  bounds: 649, 18, 7, 9
+  index: 1789
+sprite/BONUSPastelUI - sprite
+  bounds: 656, 18, 6, 9
+  index: 1790
+sprite/BONUSPastelUI - sprite
+  bounds: 662, 18, 6, 9
+  index: 1791
+sprite/BONUSPastelUI - sprite
+  bounds: 668, 18, 6, 9
+  index: 1792
+sprite/BONUSPastelUI - sprite
+  bounds: 674, 18, 7, 9
+  index: 1793
+sprite/BONUSPastelUI - sprite
+  bounds: 681, 18, 8, 9
+  index: 1794
+sprite/BONUSPastelUI - sprite
+  bounds: 689, 18, 8, 9
+  index: 1795
+sprite/BONUSPastelUI - sprite
+  bounds: 697, 18, 6, 9
+  index: 1796
+sprite/BONUSPastelUI - sprite
+  bounds: 703, 18, 7, 9
+  index: 1797
+sprite/BONUSPastelUI - sprite
+  bounds: 710, 18, 8, 9
+  index: 1798
+sprite/BONUSPastelUI - sprite
+  bounds: 718, 18, 7, 9
+  index: 1799
+sprite/BONUSPastelUI - sprite
+  bounds: 725, 18, 4, 9
+  index: 1800
+sprite/BONUSPastelUI - sprite
+  bounds: 729, 18, 6, 9
+  index: 1801
+sprite/BONUSPastelUI - sprite
+  bounds: 735, 18, 7, 9
+  index: 1802
+sprite/BONUSPastelUI - sprite
+  bounds: 742, 18, 7, 9
+  index: 1803
+sprite/BONUSPastelUI - sprite
+  bounds: 749, 18, 6, 9
+  index: 1804
+sprite/BONUSPastelUI - sprite
+  bounds: 755, 18, 8, 9
+  index: 1805
+sprite/BONUSPastelUI - sprite
+  bounds: 763, 18, 8, 9
+  index: 1806
+sprite/BONUSPastelUI - sprite
+  bounds: 771, 18, 6, 9
+  index: 1807
+sprite/BONUSPastelUI - sprite
+  bounds: 777, 18, 7, 9
+  index: 1808
+sprite/BONUSPastelUI - sprite
+  bounds: 784, 18, 8, 9
+  index: 1809
+sprite/BONUSPastelUI - sprite
+  bounds: 792, 18, 7, 9
+  index: 1810
+sprite/BONUSPastelUI - sprite
+  bounds: 799, 18, 6, 9
+  index: 1811
+sprite/BONUSPastelUI - sprite
+  bounds: 805, 18, 9, 9
+  index: 1812
+sprite/BONUSPastelUI - sprite
+  bounds: 814, 18, 7, 9
+  index: 1813
+sprite/BONUSPastelUI - sprite
+  bounds: 821, 18, 8, 9
+  index: 1814
+sprite/BONUSPastelUI - sprite
+  bounds: 829, 18, 6, 9
+  index: 1815
+sprite/BONUSPastelUI - sprite
+  bounds: 835, 18, 7, 9
+  index: 1816
+sprite/BONUSPastelUI - sprite
+  bounds: 842, 18, 4, 9
+  index: 1817
+sprite/BONUSPastelUI - sprite
+  bounds: 846, 18, 6, 9
+  index: 1818
+sprite/BONUSPastelUI - sprite
+  bounds: 852, 18, 7, 9
+  index: 1819
+sprite/BONUSPastelUI - sprite
+  bounds: 859, 18, 6, 9
+  index: 1820
+sprite/BONUSPastelUI - sprite
+  bounds: 865, 18, 6, 9
+  index: 1821
+sprite/BONUSPastelUI - sprite
+  bounds: 871, 18, 6, 9
+  index: 1822
+sprite/BONUSPastelUI - sprite
+  bounds: 877, 18, 7, 9
+  index: 1823
+sprite/BONUSPastelUI - sprite
+  bounds: 884, 18, 8, 9
+  index: 1824
+sprite/BONUSPastelUI - sprite
+  bounds: 892, 18, 8, 9
+  index: 1825
+sprite/BONUSPastelUI - sprite
+  bounds: 900, 18, 6, 9
+  index: 1826
+sprite/BONUSPastelUI - sprite
+  bounds: 906, 18, 7, 9
+  index: 1827
+sprite/BONUSPastelUI - sprite
+  bounds: 913, 18, 8, 9
+  index: 1828
+sprite/BONUSPastelUI - sprite
+  bounds: 921, 18, 7, 9
+  index: 1829
+sprite/BONUSPastelUI - sprite
+  bounds: 928, 18, 4, 9
+  index: 1830
+sprite/BONUSPastelUI - sprite
+  bounds: 932, 18, 6, 9
+  index: 1831
+sprite/BONUSPastelUI - sprite
+  bounds: 938, 18, 7, 9
+  index: 1832
